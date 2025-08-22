@@ -1,0 +1,1001 @@
+data,rodada,mandante,visitante,mandante_placar,visitante_placar,mandante_estado,visitante_estado,vencedor,rodada_normalizada
+2020-01-01,29,Flamengo,São Paulo,4,1,RS,RJ,visitante,0.7567567567567568
+2020-01-02,15,Grêmio,Palmeiras,0,5,RS,MG,visitante,0.3783783783783784
+2020-01-03,8,Santos,São Paulo,0,5,SP,RS,empate,0.1891891891891892
+2020-01-04,21,Palmeiras,Flamengo,4,0,RJ,SP,visitante,0.5405405405405406
+2020-01-05,19,Flamengo,Internacional,1,1,SP,RS,empate,0.48648648648648657
+2020-01-06,23,Santos,Palmeiras,4,1,RS,SP,mandante,0.5945945945945947
+2020-01-07,11,Palmeiras,Palmeiras,5,2,SP,SP,visitante,0.2702702702702703
+2020-01-08,11,Palmeiras,Botafogo,4,5,RS,SP,empate,0.2702702702702703
+2020-01-09,24,Atlético-MG,Corinthians,2,1,MG,RJ,visitante,0.6216216216216217
+2020-01-10,36,Flamengo,Palmeiras,2,2,SP,RJ,visitante,0.945945945945946
+2020-01-11,24,Palmeiras,Botafogo,2,3,RJ,RS,mandante,0.6216216216216217
+2020-01-12,3,Atlético-MG,Botafogo,1,2,SP,RJ,mandante,0.05405405405405406
+2020-01-13,22,Santos,Flamengo,1,4,RJ,SP,visitante,0.5675675675675675
+2020-01-14,2,São Paulo,Santos,4,0,RS,SP,mandante,0.02702702702702703
+2020-01-15,24,Flamengo,São Paulo,2,3,SP,RJ,empate,0.6216216216216217
+2020-01-16,30,Grêmio,Internacional,1,3,RS,MG,mandante,0.7837837837837838
+2020-01-17,38,Internacional,Vasco,0,4,RJ,RS,empate,1.0000000000000002
+2020-01-18,2,Internacional,São Paulo,4,2,RS,SP,empate,0.02702702702702703
+2020-01-19,21,Santos,Palmeiras,5,0,MG,RS,mandante,0.5405405405405406
+2020-01-20,33,Vasco,Internacional,3,2,RJ,MG,mandante,0.8648648648648649
+2020-01-21,12,Vasco,Atlético-MG,4,1,RJ,RJ,empate,0.2972972972972973
+2020-01-22,22,Santos,Santos,3,2,RS,RS,empate,0.5675675675675675
+2020-01-23,25,Palmeiras,Atlético-MG,2,3,RJ,RJ,visitante,0.6486486486486487
+2020-01-24,27,Flamengo,Atlético-MG,3,0,SP,RS,mandante,0.7027027027027029
+2020-01-25,28,Internacional,Corinthians,2,2,RS,RJ,visitante,0.7297297297297298
+2020-01-26,16,Internacional,São Paulo,0,0,SP,SP,visitante,0.40540540540540543
+2020-01-27,15,Palmeiras,Vasco,3,0,RS,SP,mandante,0.3783783783783784
+2020-01-28,3,Internacional,Flamengo,4,1,SP,SP,visitante,0.05405405405405406
+2020-01-29,37,Grêmio,Vasco,2,1,RJ,MG,mandante,0.972972972972973
+2020-01-30,7,Flamengo,Atlético-MG,4,3,RJ,SP,mandante,0.16216216216216217
+2020-01-31,21,Botafogo,Palmeiras,1,4,RS,RJ,mandante,0.5405405405405406
+2020-02-01,9,Internacional,Santos,2,0,MG,SP,mandante,0.21621621621621623
+2020-02-02,18,Santos,Grêmio,3,4,RS,MG,mandante,0.4594594594594595
+2020-02-03,4,Grêmio,Vasco,2,3,SP,RS,visitante,0.08108108108108109
+2020-02-04,25,Internacional,Atlético-MG,4,0,RJ,RS,mandante,0.6486486486486487
+2020-02-05,14,Grêmio,Santos,0,0,RJ,RS,mandante,0.35135135135135137
+2020-02-06,9,Atlético-MG,Internacional,2,5,RJ,SP,mandante,0.21621621621621623
+2020-02-07,26,Botafogo,São Paulo,3,4,RJ,SP,empate,0.6756756756756757
+2020-02-08,2,Corinthians,Botafogo,1,2,MG,MG,visitante,0.02702702702702703
+2020-02-09,20,Santos,Corinthians,5,1,RJ,RS,visitante,0.5135135135135136
+2020-02-10,28,Santos,Santos,0,2,SP,RJ,visitante,0.7297297297297298
+2020-02-11,7,Flamengo,Palmeiras,1,4,RJ,RJ,empate,0.16216216216216217
+2020-02-12,8,Grêmio,Palmeiras,2,1,MG,RS,mandante,0.1891891891891892
+2020-02-13,35,Palmeiras,Santos,4,2,MG,RS,visitante,0.9189189189189191
+2020-02-14,14,Santos,Palmeiras,4,5,SP,MG,visitante,0.35135135135135137
+2020-02-15,17,Grêmio,São Paulo,3,1,RS,SP,visitante,0.43243243243243246
+2020-02-16,36,Grêmio,Palmeiras,4,0,RJ,SP,mandante,0.945945945945946
+2020-02-17,4,São Paulo,Vasco,0,2,RJ,SP,visitante,0.08108108108108109
+2020-02-18,2,São Paulo,Botafogo,4,1,MG,MG,mandante,0.02702702702702703
+2020-02-19,6,Corinthians,Palmeiras,3,5,RJ,RS,visitante,0.13513513513513514
+2020-02-20,4,Atlético-MG,Botafogo,5,1,RJ,RS,visitante,0.08108108108108109
+2020-02-21,29,Corinthians,Atlético-MG,2,1,MG,RJ,mandante,0.7567567567567568
+2020-02-22,18,Internacional,Flamengo,2,5,RJ,MG,empate,0.4594594594594595
+2020-02-23,26,Palmeiras,São Paulo,4,2,MG,RS,mandante,0.6756756756756757
+2020-02-24,34,Internacional,Flamengo,1,3,SP,RS,empate,0.8918918918918919
+2020-02-25,10,Vasco,Atlético-MG,2,2,RS,RJ,visitante,0.24324324324324326
+2020-02-26,36,Internacional,São Paulo,5,4,MG,RJ,mandante,0.945945945945946
+2020-02-27,14,Flamengo,Santos,4,5,RJ,SP,mandante,0.35135135135135137
+2020-02-28,31,Internacional,Santos,3,2,SP,RJ,empate,0.810810810810811
+2020-02-29,15,Corinthians,Botafogo,5,1,RS,SP,mandante,0.3783783783783784
+2020-03-01,8,Santos,Atlético-MG,4,5,SP,SP,mandante,0.1891891891891892
+2020-03-02,14,Santos,Botafogo,5,0,MG,SP,mandante,0.35135135135135137
+2020-03-03,23,São Paulo,Corinthians,2,2,SP,RJ,visitante,0.5945945945945947
+2020-03-04,21,Palmeiras,Palmeiras,3,5,MG,RJ,visitante,0.5405405405405406
+2020-03-05,16,Palmeiras,Grêmio,4,2,RJ,SP,mandante,0.40540540540540543
+2020-03-06,18,Flamengo,Corinthians,0,5,RJ,SP,mandante,0.4594594594594595
+2020-03-07,24,Corinthians,Palmeiras,3,1,RS,SP,mandante,0.6216216216216217
+2020-03-08,26,São Paulo,São Paulo,0,0,RJ,SP,mandante,0.6756756756756757
+2020-03-09,25,Vasco,Botafogo,5,0,SP,SP,visitante,0.6486486486486487
+2020-03-10,29,Palmeiras,São Paulo,1,4,RJ,SP,visitante,0.7567567567567568
+2020-03-11,15,Santos,São Paulo,3,5,SP,RJ,mandante,0.3783783783783784
+2020-03-12,1,Internacional,Palmeiras,5,2,RJ,RS,mandante,0.0
+2020-03-13,25,Internacional,Atlético-MG,0,0,SP,SP,mandante,0.6486486486486487
+2020-03-14,7,São Paulo,Palmeiras,2,0,MG,RS,empate,0.16216216216216217
+2020-03-15,9,Corinthians,Internacional,2,3,MG,SP,empate,0.21621621621621623
+2020-03-16,24,Corinthians,Santos,1,3,SP,SP,empate,0.6216216216216217
+2020-03-17,1,Atlético-MG,Santos,3,0,SP,MG,mandante,0.0
+2020-03-18,8,Botafogo,Corinthians,3,5,SP,SP,mandante,0.1891891891891892
+2020-03-19,24,Palmeiras,Santos,3,4,RJ,MG,mandante,0.6216216216216217
+2020-03-20,11,Corinthians,Palmeiras,5,0,RJ,SP,mandante,0.2702702702702703
+2020-03-21,17,Santos,Vasco,1,1,RS,SP,visitante,0.43243243243243246
+2020-03-22,8,São Paulo,Botafogo,3,2,RS,RS,empate,0.1891891891891892
+2020-03-23,35,Vasco,Palmeiras,5,4,SP,RS,empate,0.9189189189189191
+2020-03-24,35,Atlético-MG,Palmeiras,2,1,SP,SP,empate,0.9189189189189191
+2020-03-25,33,Grêmio,Grêmio,0,4,RJ,RJ,mandante,0.8648648648648649
+2020-03-26,5,Flamengo,Botafogo,5,1,SP,SP,visitante,0.10810810810810811
+2020-03-27,28,Vasco,Internacional,2,2,SP,RS,mandante,0.7297297297297298
+2020-03-28,7,Grêmio,Santos,2,2,SP,RS,mandante,0.16216216216216217
+2020-03-29,9,Internacional,Botafogo,0,3,SP,SP,visitante,0.21621621621621623
+2020-03-30,8,Flamengo,Santos,2,5,SP,RJ,mandante,0.1891891891891892
+2020-03-31,12,Palmeiras,Corinthians,1,1,RJ,RJ,visitante,0.2972972972972973
+2020-04-01,34,Santos,Botafogo,0,3,RS,SP,mandante,0.8918918918918919
+2020-04-02,33,Flamengo,Santos,2,1,RS,RJ,visitante,0.8648648648648649
+2020-04-03,23,Botafogo,Internacional,4,3,RJ,SP,empate,0.5945945945945947
+2020-04-04,24,Grêmio,Flamengo,5,2,RS,SP,mandante,0.6216216216216217
+2020-04-05,37,Palmeiras,São Paulo,2,4,SP,MG,empate,0.972972972972973
+2020-04-06,35,Botafogo,São Paulo,1,3,RJ,RS,mandante,0.9189189189189191
+2020-04-07,22,Internacional,Internacional,3,1,SP,RS,visitante,0.5675675675675675
+2020-04-08,27,Botafogo,Grêmio,2,1,SP,RJ,visitante,0.7027027027027029
+2020-04-09,35,Atlético-MG,Flamengo,3,5,MG,MG,visitante,0.9189189189189191
+2020-04-10,1,Atlético-MG,Corinthians,4,2,RJ,RS,empate,0.0
+2020-04-11,35,São Paulo,Internacional,2,1,SP,MG,mandante,0.9189189189189191
+2020-04-12,37,Vasco,São Paulo,0,0,SP,SP,visitante,0.972972972972973
+2020-04-13,14,Vasco,São Paulo,3,4,RS,RJ,visitante,0.35135135135135137
+2020-04-14,3,Palmeiras,São Paulo,4,3,SP,SP,empate,0.05405405405405406
+2020-04-15,1,Internacional,Atlético-MG,0,5,RJ,RJ,mandante,0.0
+2020-04-16,5,Corinthians,Internacional,0,4,SP,RS,empate,0.10810810810810811
+2020-04-17,26,Atlético-MG,Palmeiras,0,2,SP,SP,visitante,0.6756756756756757
+2020-04-18,14,Palmeiras,Corinthians,0,5,MG,SP,mandante,0.35135135135135137
+2020-04-19,27,Corinthians,São Paulo,2,3,RS,SP,visitante,0.7027027027027029
+2020-04-20,9,Vasco,Santos,5,3,RS,MG,mandante,0.21621621621621623
+2020-04-21,15,São Paulo,Internacional,2,0,RJ,SP,visitante,0.3783783783783784
+2020-04-22,15,Botafogo,Atlético-MG,2,2,RS,SP,empate,0.3783783783783784
+2020-04-23,26,Atlético-MG,Internacional,4,5,SP,SP,visitante,0.6756756756756757
+2020-04-24,13,Palmeiras,Corinthians,4,5,RS,RJ,visitante,0.32432432432432434
+2020-04-25,32,Flamengo,Atlético-MG,5,1,RS,RJ,visitante,0.8378378378378379
+2020-04-26,32,Corinthians,Corinthians,4,0,RS,RJ,mandante,0.8378378378378379
+2020-04-27,4,Botafogo,Internacional,1,0,SP,RJ,mandante,0.08108108108108109
+2020-04-28,30,Atlético-MG,Palmeiras,5,5,RS,RS,visitante,0.7837837837837838
+2020-04-29,37,Vasco,Corinthians,4,5,RJ,SP,mandante,0.972972972972973
+2020-04-30,23,Internacional,Atlético-MG,5,4,RJ,SP,mandante,0.5945945945945947
+2020-05-01,15,Corinthians,Atlético-MG,2,4,SP,SP,visitante,0.3783783783783784
+2020-05-02,29,Vasco,Corinthians,2,4,RJ,RS,mandante,0.7567567567567568
+2020-05-03,36,Atlético-MG,Vasco,5,0,MG,SP,mandante,0.945945945945946
+2020-05-04,13,Corinthians,Internacional,1,1,SP,MG,visitante,0.32432432432432434
+2020-05-05,32,Botafogo,Vasco,1,3,SP,RJ,mandante,0.8378378378378379
+2020-05-06,7,Atlético-MG,Grêmio,5,4,SP,RS,empate,0.16216216216216217
+2020-05-07,22,Grêmio,Internacional,4,1,SP,RJ,empate,0.5675675675675675
+2020-05-08,28,Palmeiras,Corinthians,3,2,RS,SP,visitante,0.7297297297297298
+2020-05-09,2,Botafogo,Flamengo,1,4,SP,SP,mandante,0.02702702702702703
+2020-05-10,6,Corinthians,Corinthians,0,3,RS,SP,empate,0.13513513513513514
+2020-05-11,28,Internacional,Vasco,2,2,SP,SP,empate,0.7297297297297298
+2020-05-12,28,Vasco,Palmeiras,5,2,MG,RJ,empate,0.7297297297297298
+2020-05-13,20,Flamengo,Corinthians,0,3,RS,SP,mandante,0.5135135135135136
+2020-05-14,30,Vasco,Corinthians,5,4,RJ,RS,visitante,0.7837837837837838
+2020-05-15,11,Corinthians,Palmeiras,2,0,SP,RJ,empate,0.2702702702702703
+2020-05-16,28,Vasco,Corinthians,2,3,RS,SP,visitante,0.7297297297297298
+2020-05-17,25,Palmeiras,São Paulo,1,3,MG,RJ,visitante,0.6486486486486487
+2020-05-18,33,Atlético-MG,Flamengo,1,3,RJ,RJ,visitante,0.8648648648648649
+2020-05-19,1,Flamengo,Santos,0,2,SP,SP,visitante,0.0
+2020-05-20,27,Santos,Flamengo,5,1,RS,RJ,mandante,0.7027027027027029
+2020-05-21,13,Corinthians,Corinthians,2,0,RJ,SP,visitante,0.32432432432432434
+2020-05-22,3,São Paulo,São Paulo,0,4,RJ,MG,mandante,0.05405405405405406
+2020-05-23,6,Santos,Internacional,3,4,SP,MG,visitante,0.13513513513513514
+2020-05-24,8,Vasco,Corinthians,0,1,RJ,MG,mandante,0.1891891891891892
+2020-05-25,27,Corinthians,Vasco,4,3,SP,SP,visitante,0.7027027027027029
+2020-05-26,9,Grêmio,São Paulo,0,0,MG,RS,mandante,0.21621621621621623
+2020-05-27,37,São Paulo,Palmeiras,4,4,RS,MG,visitante,0.972972972972973
+2020-05-28,33,Flamengo,São Paulo,4,5,SP,RJ,empate,0.8648648648648649
+2020-05-29,24,Internacional,Palmeiras,4,4,RJ,SP,mandante,0.6216216216216217
+2020-05-30,15,Grêmio,Grêmio,3,3,RJ,RS,mandante,0.3783783783783784
+2020-05-31,32,Santos,Santos,0,5,SP,RJ,mandante,0.8378378378378379
+2020-06-01,32,Atlético-MG,Botafogo,0,1,SP,RJ,empate,0.8378378378378379
+2020-06-02,24,Palmeiras,São Paulo,3,0,RJ,RJ,visitante,0.6216216216216217
+2020-06-03,12,Internacional,Atlético-MG,2,1,RJ,RS,visitante,0.2972972972972973
+2020-06-04,2,Grêmio,Vasco,1,1,SP,SP,mandante,0.02702702702702703
+2020-06-05,3,Atlético-MG,Corinthians,0,0,SP,SP,visitante,0.05405405405405406
+2020-06-06,37,Atlético-MG,Vasco,1,0,MG,SP,empate,0.972972972972973
+2020-06-07,17,Corinthians,Flamengo,5,4,RS,RJ,empate,0.43243243243243246
+2020-06-08,2,Grêmio,Botafogo,5,4,MG,RJ,visitante,0.02702702702702703
+2020-06-09,2,Flamengo,Flamengo,3,0,SP,RJ,mandante,0.02702702702702703
+2020-06-10,28,Vasco,Grêmio,5,5,MG,RS,mandante,0.7297297297297298
+2020-06-11,23,São Paulo,Botafogo,5,2,RJ,SP,mandante,0.5945945945945947
+2020-06-12,37,São Paulo,Botafogo,2,4,SP,MG,mandante,0.972972972972973
+2020-06-13,32,Santos,Flamengo,2,2,MG,SP,mandante,0.8378378378378379
+2020-06-14,33,Santos,Palmeiras,2,5,RS,RS,mandante,0.8648648648648649
+2020-06-15,1,São Paulo,Flamengo,5,0,RJ,SP,mandante,0.0
+2020-06-16,19,Flamengo,Vasco,3,5,SP,RJ,empate,0.48648648648648657
+2020-06-17,2,Palmeiras,Palmeiras,4,4,RJ,RS,visitante,0.02702702702702703
+2020-06-18,26,Botafogo,Vasco,4,1,RS,RS,empate,0.6756756756756757
+2020-06-19,32,Vasco,Grêmio,1,0,RJ,RJ,visitante,0.8378378378378379
+2020-06-20,6,Palmeiras,Corinthians,4,3,SP,RS,mandante,0.13513513513513514
+2020-06-21,32,Corinthians,Internacional,4,2,RJ,SP,visitante,0.8378378378378379
+2020-06-22,4,Botafogo,Palmeiras,2,5,RJ,MG,mandante,0.08108108108108109
+2020-06-23,11,Botafogo,Grêmio,2,0,RJ,RJ,visitante,0.2702702702702703
+2020-06-24,17,Grêmio,Atlético-MG,5,5,RS,SP,mandante,0.43243243243243246
+2020-06-25,38,Flamengo,Grêmio,1,0,RJ,RS,empate,1.0000000000000002
+2020-06-26,24,Flamengo,Flamengo,0,4,SP,RJ,mandante,0.6216216216216217
+2020-06-27,5,Botafogo,Flamengo,1,4,SP,RJ,mandante,0.10810810810810811
+2020-06-28,34,Grêmio,Internacional,1,4,SP,SP,empate,0.8918918918918919
+2020-06-29,6,Vasco,Grêmio,3,5,RS,RS,mandante,0.13513513513513514
+2020-06-30,22,Botafogo,Santos,5,3,RJ,MG,visitante,0.5675675675675675
+2020-07-01,11,Internacional,Corinthians,3,4,SP,SP,visitante,0.2702702702702703
+2020-07-02,16,Santos,Flamengo,1,0,RS,RJ,empate,0.40540540540540543
+2020-07-03,33,Santos,Internacional,1,4,RJ,SP,empate,0.8648648648648649
+2020-07-04,9,Palmeiras,Corinthians,1,1,RJ,RJ,empate,0.21621621621621623
+2020-07-05,6,Corinthians,Grêmio,4,4,RJ,SP,mandante,0.13513513513513514
+2020-07-06,16,Santos,Grêmio,3,5,RJ,SP,empate,0.40540540540540543
+2020-07-07,29,Atlético-MG,Botafogo,1,3,RJ,RS,visitante,0.7567567567567568
+2020-07-08,3,Palmeiras,Internacional,2,1,RS,RS,visitante,0.05405405405405406
+2020-07-09,20,Santos,Flamengo,5,5,RJ,SP,mandante,0.5135135135135136
+2020-07-10,36,Corinthians,Santos,5,5,RJ,RJ,visitante,0.945945945945946
+2020-07-11,19,Flamengo,Grêmio,2,5,SP,RS,empate,0.48648648648648657
+2020-07-12,26,Flamengo,Santos,5,0,SP,RS,empate,0.6756756756756757
+2020-07-13,3,Vasco,Grêmio,4,5,SP,MG,visitante,0.05405405405405406
+2020-07-14,19,Botafogo,Flamengo,4,0,RJ,MG,mandante,0.48648648648648657
+2020-07-15,20,Internacional,Corinthians,0,5,SP,RJ,mandante,0.5135135135135136
+2020-07-16,32,Flamengo,São Paulo,0,2,SP,RJ,empate,0.8378378378378379
+2020-07-17,7,Grêmio,Corinthians,0,1,SP,SP,visitante,0.16216216216216217
+2020-07-18,33,Santos,Grêmio,5,2,MG,RJ,visitante,0.8648648648648649
+2020-07-19,18,Grêmio,Vasco,4,5,RS,SP,mandante,0.4594594594594595
+2020-07-20,1,Corinthians,São Paulo,4,1,RS,SP,visitante,0.0
+2020-07-21,11,Flamengo,São Paulo,4,1,RJ,SP,visitante,0.2702702702702703
+2020-07-22,28,Internacional,Santos,2,3,SP,RJ,empate,0.7297297297297298
+2020-07-23,25,Corinthians,Internacional,4,2,RJ,RJ,visitante,0.6486486486486487
+2020-07-24,23,Atlético-MG,Santos,2,3,RJ,RJ,mandante,0.5945945945945947
+2020-07-25,31,Atlético-MG,Santos,0,1,SP,SP,visitante,0.810810810810811
+2020-07-26,30,Grêmio,Vasco,0,0,MG,RS,mandante,0.7837837837837838
+2020-07-27,35,Botafogo,Corinthians,5,1,RJ,SP,empate,0.9189189189189191
+2020-07-28,7,Palmeiras,Corinthians,0,3,SP,MG,mandante,0.16216216216216217
+2020-07-29,16,Botafogo,Atlético-MG,5,2,SP,SP,visitante,0.40540540540540543
+2020-07-30,26,Vasco,Grêmio,1,5,SP,RS,mandante,0.6756756756756757
+2020-07-31,2,Botafogo,Vasco,1,5,SP,MG,visitante,0.02702702702702703
+2020-08-01,1,Vasco,Atlético-MG,3,2,RJ,RS,visitante,0.0
+2020-08-02,12,Vasco,Flamengo,5,5,MG,RJ,visitante,0.2972972972972973
+2020-08-03,5,Internacional,Grêmio,3,5,RJ,MG,mandante,0.10810810810810811
+2020-08-04,37,Flamengo,Grêmio,3,3,RJ,RJ,mandante,0.972972972972973
+2020-08-05,32,Internacional,Botafogo,1,2,SP,RJ,mandante,0.8378378378378379
+2020-08-06,9,Vasco,Botafogo,5,4,RS,RS,visitante,0.21621621621621623
+2020-08-07,35,Corinthians,Palmeiras,1,0,MG,RS,mandante,0.9189189189189191
+2020-08-08,19,Atlético-MG,Palmeiras,3,0,SP,SP,visitante,0.48648648648648657
+2020-08-09,16,Vasco,Santos,5,5,RJ,MG,empate,0.40540540540540543
+2020-08-10,3,Internacional,Flamengo,3,0,RS,RJ,empate,0.05405405405405406
+2020-08-11,20,Corinthians,São Paulo,4,2,RS,RS,visitante,0.5135135135135136
+2020-08-12,24,Internacional,São Paulo,5,2,RS,SP,visitante,0.6216216216216217
+2020-08-13,33,Botafogo,Botafogo,5,1,RS,MG,mandante,0.8648648648648649
+2020-08-14,24,Santos,Botafogo,3,1,RJ,SP,visitante,0.6216216216216217
+2020-08-15,11,Grêmio,Botafogo,4,0,RJ,SP,empate,0.2702702702702703
+2020-08-16,8,Palmeiras,Vasco,2,4,RS,RJ,mandante,0.1891891891891892
+2020-08-17,36,Internacional,Internacional,1,1,SP,RJ,visitante,0.945945945945946
+2020-08-18,38,Palmeiras,Palmeiras,3,1,SP,SP,empate,1.0000000000000002
+2020-08-19,20,São Paulo,Vasco,5,2,RS,RJ,empate,0.5135135135135136
+2020-08-20,35,Internacional,Corinthians,1,4,SP,SP,mandante,0.9189189189189191
+2020-08-21,25,Santos,São Paulo,1,5,RJ,RS,visitante,0.6486486486486487
+2020-08-22,35,Palmeiras,Grêmio,1,0,SP,RJ,mandante,0.9189189189189191
+2020-08-23,25,Vasco,Palmeiras,2,1,MG,RJ,mandante,0.6486486486486487
+2020-08-24,29,Internacional,Atlético-MG,0,4,SP,MG,empate,0.7567567567567568
+2020-08-25,18,Flamengo,Corinthians,3,4,RS,RS,empate,0.4594594594594595
+2020-08-26,18,Grêmio,Palmeiras,0,0,RJ,RJ,empate,0.4594594594594595
+2020-08-27,2,Santos,Vasco,0,4,RS,RS,mandante,0.02702702702702703
+2020-08-28,35,Palmeiras,Flamengo,0,4,SP,MG,empate,0.9189189189189191
+2020-08-29,16,Santos,Grêmio,1,4,SP,SP,visitante,0.40540540540540543
+2020-08-30,36,Corinthians,Palmeiras,4,1,SP,RS,mandante,0.945945945945946
+2020-08-31,33,Grêmio,Internacional,1,0,SP,RS,visitante,0.8648648648648649
+2020-09-01,4,Vasco,Botafogo,1,4,SP,SP,mandante,0.08108108108108109
+2020-09-02,33,Internacional,Botafogo,5,4,SP,RJ,empate,0.8648648648648649
+2020-09-03,14,Internacional,Grêmio,5,1,RJ,SP,visitante,0.35135135135135137
+2020-09-04,21,Internacional,Vasco,0,0,SP,SP,mandante,0.5405405405405406
+2020-09-05,20,Grêmio,Botafogo,1,2,SP,SP,mandante,0.5135135135135136
+2020-09-06,8,Flamengo,Palmeiras,0,1,RS,RJ,mandante,0.1891891891891892
+2020-09-07,7,São Paulo,Atlético-MG,5,0,SP,SP,mandante,0.16216216216216217
+2020-09-08,3,Atlético-MG,São Paulo,4,4,SP,SP,visitante,0.05405405405405406
+2020-09-09,17,Botafogo,São Paulo,3,0,RJ,MG,empate,0.43243243243243246
+2020-09-10,33,Palmeiras,Corinthians,0,0,MG,SP,mandante,0.8648648648648649
+2020-09-11,12,Flamengo,Santos,4,5,SP,RJ,mandante,0.2972972972972973
+2020-09-12,22,Vasco,Flamengo,3,0,SP,SP,visitante,0.5675675675675675
+2020-09-13,22,Palmeiras,Grêmio,2,2,MG,RJ,empate,0.5675675675675675
+2020-09-14,30,Internacional,Corinthians,0,0,SP,SP,mandante,0.7837837837837838
+2020-09-15,38,Santos,Santos,0,2,SP,SP,mandante,1.0000000000000002
+2020-09-16,38,Vasco,Vasco,2,4,MG,MG,visitante,1.0000000000000002
+2020-09-17,8,Palmeiras,Internacional,2,2,SP,RS,mandante,0.1891891891891892
+2020-09-18,27,Internacional,Internacional,0,4,SP,RJ,mandante,0.7027027027027029
+2020-09-19,27,Palmeiras,Flamengo,2,4,RS,RJ,visitante,0.7027027027027029
+2020-09-20,34,Santos,Botafogo,1,2,SP,SP,visitante,0.8918918918918919
+2020-09-21,21,Internacional,Palmeiras,3,1,MG,RJ,visitante,0.5405405405405406
+2020-09-22,30,São Paulo,Corinthians,3,3,SP,RJ,visitante,0.7837837837837838
+2020-09-23,33,Flamengo,Corinthians,3,0,MG,RJ,visitante,0.8648648648648649
+2020-09-24,28,Corinthians,Grêmio,1,5,SP,RS,mandante,0.7297297297297298
+2020-09-25,33,Botafogo,Grêmio,2,3,SP,RS,mandante,0.8648648648648649
+2020-09-26,5,Grêmio,Internacional,4,0,SP,SP,mandante,0.10810810810810811
+2020-09-27,19,Botafogo,Internacional,2,0,RJ,RS,mandante,0.48648648648648657
+2020-09-28,4,Vasco,Atlético-MG,0,4,RS,SP,visitante,0.08108108108108109
+2020-09-29,35,Botafogo,Atlético-MG,5,0,SP,SP,empate,0.9189189189189191
+2020-09-30,17,Internacional,Botafogo,3,5,SP,RS,empate,0.43243243243243246
+2020-10-01,28,São Paulo,Atlético-MG,2,0,MG,SP,visitante,0.7297297297297298
+2020-10-02,30,Corinthians,Palmeiras,4,2,MG,SP,mandante,0.7837837837837838
+2020-10-03,29,Flamengo,Palmeiras,0,3,SP,RJ,mandante,0.7567567567567568
+2020-10-04,6,Flamengo,Corinthians,1,2,RJ,SP,empate,0.13513513513513514
+2020-10-05,35,Santos,São Paulo,1,5,SP,RJ,visitante,0.9189189189189191
+2020-10-06,37,Grêmio,Palmeiras,4,0,RJ,SP,visitante,0.972972972972973
+2020-10-07,24,Palmeiras,Santos,0,5,SP,MG,empate,0.6216216216216217
+2020-10-08,29,São Paulo,Internacional,3,4,SP,MG,visitante,0.7567567567567568
+2020-10-09,31,Palmeiras,Grêmio,2,2,SP,RJ,empate,0.810810810810811
+2020-10-10,35,Corinthians,Atlético-MG,0,2,SP,SP,mandante,0.9189189189189191
+2020-10-11,33,Botafogo,Corinthians,1,1,SP,RJ,visitante,0.8648648648648649
+2020-10-12,21,Flamengo,Flamengo,4,0,RS,MG,empate,0.5405405405405406
+2020-10-13,32,Corinthians,Grêmio,4,4,SP,SP,mandante,0.8378378378378379
+2020-10-14,23,Botafogo,Santos,2,2,MG,RJ,visitante,0.5945945945945947
+2020-10-15,33,Flamengo,Atlético-MG,4,2,RJ,MG,mandante,0.8648648648648649
+2020-10-16,3,Botafogo,Santos,4,4,SP,SP,empate,0.05405405405405406
+2020-10-17,18,Grêmio,Internacional,0,5,SP,SP,mandante,0.4594594594594595
+2020-10-18,25,São Paulo,Internacional,3,5,RJ,MG,visitante,0.6486486486486487
+2020-10-19,31,Vasco,Botafogo,2,0,RJ,RJ,mandante,0.810810810810811
+2020-10-20,3,Corinthians,Corinthians,0,1,RJ,RS,visitante,0.05405405405405406
+2020-10-21,24,Corinthians,Grêmio,3,2,RS,RS,mandante,0.6216216216216217
+2020-10-22,32,Atlético-MG,Vasco,0,1,SP,RJ,mandante,0.8378378378378379
+2020-10-23,22,Internacional,Vasco,5,5,SP,RS,visitante,0.5675675675675675
+2020-10-24,23,Grêmio,Grêmio,0,5,RJ,RJ,empate,0.5945945945945947
+2020-10-25,2,Grêmio,Flamengo,4,3,SP,RJ,mandante,0.02702702702702703
+2020-10-26,27,Palmeiras,Corinthians,3,0,RJ,SP,mandante,0.7027027027027029
+2020-10-27,2,Botafogo,Santos,2,3,SP,RS,empate,0.02702702702702703
+2020-10-28,26,Internacional,Flamengo,2,3,SP,RJ,visitante,0.6756756756756757
+2020-10-29,17,São Paulo,São Paulo,3,3,SP,SP,empate,0.43243243243243246
+2020-10-30,33,São Paulo,Grêmio,4,0,SP,SP,mandante,0.8648648648648649
+2020-10-31,9,Grêmio,Santos,1,0,SP,RS,visitante,0.21621621621621623
+2020-11-01,29,São Paulo,Vasco,0,4,RJ,RJ,mandante,0.7567567567567568
+2020-11-02,26,Atlético-MG,Palmeiras,4,1,SP,RJ,mandante,0.6756756756756757
+2020-11-03,35,Corinthians,Botafogo,5,1,SP,RS,visitante,0.9189189189189191
+2020-11-04,25,Santos,Vasco,3,4,RS,MG,visitante,0.6486486486486487
+2020-11-05,24,Vasco,Corinthians,0,4,RJ,RS,empate,0.6216216216216217
+2020-11-06,13,Palmeiras,Internacional,2,5,RS,RJ,mandante,0.32432432432432434
+2020-11-07,7,Botafogo,Palmeiras,1,3,SP,SP,visitante,0.16216216216216217
+2020-11-08,36,Vasco,Botafogo,5,4,RS,SP,visitante,0.945945945945946
+2020-11-09,20,Botafogo,Botafogo,2,2,RJ,RS,empate,0.5135135135135136
+2020-11-10,1,Flamengo,São Paulo,3,1,RS,SP,mandante,0.0
+2020-11-11,8,Vasco,São Paulo,0,4,SP,RJ,mandante,0.1891891891891892
+2020-11-12,16,Santos,Atlético-MG,3,2,SP,RJ,mandante,0.40540540540540543
+2020-11-13,14,Grêmio,Vasco,0,2,RS,RJ,visitante,0.35135135135135137
+2020-11-14,12,Atlético-MG,Vasco,4,2,RJ,RS,mandante,0.2972972972972973
+2020-11-15,23,Corinthians,Vasco,1,5,SP,RS,empate,0.5945945945945947
+2020-11-16,15,Corinthians,Atlético-MG,4,5,RJ,SP,mandante,0.3783783783783784
+2020-11-17,28,Atlético-MG,Flamengo,4,2,RJ,RJ,empate,0.7297297297297298
+2020-11-18,34,Internacional,Botafogo,3,5,RJ,SP,mandante,0.8918918918918919
+2020-11-19,2,Flamengo,Palmeiras,1,3,SP,RS,visitante,0.02702702702702703
+2020-11-20,32,Botafogo,Corinthians,0,2,RJ,RJ,empate,0.8378378378378379
+2020-11-21,23,Santos,Botafogo,0,3,RS,RJ,mandante,0.5945945945945947
+2020-11-22,22,São Paulo,São Paulo,5,3,SP,SP,empate,0.5675675675675675
+2020-11-23,25,Vasco,Santos,2,2,RJ,MG,visitante,0.6486486486486487
+2020-11-24,22,Flamengo,Internacional,5,1,RS,RS,empate,0.5675675675675675
+2020-11-25,22,Vasco,Atlético-MG,5,2,SP,RJ,visitante,0.5675675675675675
+2020-11-26,6,Santos,Grêmio,0,2,SP,RS,mandante,0.13513513513513514
+2020-11-27,15,Palmeiras,Santos,3,5,RJ,RJ,mandante,0.3783783783783784
+2020-11-28,37,Palmeiras,Corinthians,4,2,RS,SP,mandante,0.972972972972973
+2020-11-29,33,Flamengo,Vasco,4,1,SP,SP,mandante,0.8648648648648649
+2020-11-30,8,Grêmio,São Paulo,4,5,SP,SP,mandante,0.1891891891891892
+2020-12-01,5,Santos,São Paulo,1,0,SP,RJ,mandante,0.10810810810810811
+2020-12-02,4,Santos,São Paulo,0,0,RJ,RJ,visitante,0.08108108108108109
+2020-12-03,6,Atlético-MG,Vasco,3,3,RJ,RJ,empate,0.13513513513513514
+2020-12-04,32,Grêmio,Grêmio,1,3,MG,SP,mandante,0.8378378378378379
+2020-12-05,30,Botafogo,Atlético-MG,2,1,SP,RJ,mandante,0.7837837837837838
+2020-12-06,35,Botafogo,Santos,3,4,RJ,SP,visitante,0.9189189189189191
+2020-12-07,16,São Paulo,Vasco,5,0,SP,RS,mandante,0.40540540540540543
+2020-12-08,13,Corinthians,Corinthians,3,3,MG,RJ,mandante,0.32432432432432434
+2020-12-09,30,Palmeiras,Atlético-MG,3,0,SP,RJ,mandante,0.7837837837837838
+2020-12-10,19,Botafogo,Corinthians,4,1,MG,SP,empate,0.48648648648648657
+2020-12-11,17,Grêmio,Atlético-MG,3,1,RJ,RJ,empate,0.43243243243243246
+2020-12-12,19,Santos,Grêmio,5,4,RJ,SP,mandante,0.48648648648648657
+2020-12-13,28,Botafogo,Internacional,5,4,RJ,SP,visitante,0.7297297297297298
+2020-12-14,26,Santos,Corinthians,0,5,RS,SP,visitante,0.6756756756756757
+2020-12-15,37,Botafogo,Vasco,3,1,RJ,RS,visitante,0.972972972972973
+2020-12-16,26,Palmeiras,Atlético-MG,4,3,RS,RJ,visitante,0.6756756756756757
+2020-12-17,23,Vasco,São Paulo,3,0,RJ,RS,visitante,0.5945945945945947
+2020-12-18,9,Botafogo,Botafogo,2,2,MG,MG,mandante,0.21621621621621623
+2020-12-19,12,Grêmio,São Paulo,2,4,RJ,RJ,mandante,0.2972972972972973
+2020-12-20,1,Botafogo,Flamengo,4,2,SP,RJ,visitante,0.0
+2020-12-21,1,Corinthians,Internacional,0,3,MG,RJ,empate,0.0
+2020-12-22,34,Palmeiras,Internacional,0,4,MG,RJ,visitante,0.8918918918918919
+2020-12-23,32,Grêmio,São Paulo,5,2,RJ,SP,empate,0.8378378378378379
+2020-12-24,25,Atlético-MG,Santos,5,3,SP,SP,empate,0.6486486486486487
+2020-12-25,1,Grêmio,Grêmio,1,0,SP,MG,mandante,0.0
+2020-12-26,16,Corinthians,Corinthians,4,3,RJ,RJ,visitante,0.40540540540540543
+2020-12-27,5,Vasco,Vasco,3,5,SP,RS,visitante,0.10810810810810811
+2020-12-28,22,Palmeiras,Internacional,4,4,RJ,RS,empate,0.5675675675675675
+2020-12-29,29,Atlético-MG,São Paulo,1,1,RJ,RS,empate,0.7567567567567568
+2020-12-30,3,Corinthians,São Paulo,5,0,SP,RJ,visitante,0.05405405405405406
+2020-12-31,12,Corinthians,Grêmio,4,2,RS,RJ,mandante,0.2972972972972973
+2021-01-01,26,Flamengo,Grêmio,4,4,RJ,RS,empate,0.6756756756756757
+2021-01-02,16,Palmeiras,Palmeiras,5,1,RJ,SP,mandante,0.40540540540540543
+2021-01-03,37,Grêmio,Palmeiras,1,3,RJ,RJ,empate,0.972972972972973
+2021-01-04,22,Santos,Santos,5,1,RJ,SP,empate,0.5675675675675675
+2021-01-05,29,Vasco,Santos,0,4,RJ,RJ,mandante,0.7567567567567568
+2021-01-06,14,Santos,Flamengo,3,4,SP,RS,visitante,0.35135135135135137
+2021-01-07,28,Grêmio,Santos,5,5,SP,RJ,visitante,0.7297297297297298
+2021-01-08,5,Grêmio,Atlético-MG,1,5,RS,SP,visitante,0.10810810810810811
+2021-01-09,30,Palmeiras,Grêmio,2,1,SP,RJ,mandante,0.7837837837837838
+2021-01-10,5,Grêmio,Vasco,0,3,RJ,RJ,empate,0.10810810810810811
+2021-01-11,12,Flamengo,Atlético-MG,2,1,SP,SP,empate,0.2972972972972973
+2021-01-12,16,Atlético-MG,Corinthians,5,4,SP,SP,empate,0.40540540540540543
+2021-01-13,26,Grêmio,São Paulo,0,4,RS,RS,mandante,0.6756756756756757
+2021-01-14,26,Santos,Santos,3,2,MG,RJ,empate,0.6756756756756757
+2021-01-15,21,Grêmio,São Paulo,5,5,SP,SP,visitante,0.5405405405405406
+2021-01-16,36,Flamengo,Internacional,3,2,RJ,SP,mandante,0.945945945945946
+2021-01-17,33,Botafogo,Flamengo,4,0,SP,SP,mandante,0.8648648648648649
+2021-01-18,30,Botafogo,Internacional,2,4,SP,RS,mandante,0.7837837837837838
+2021-01-19,37,Corinthians,Flamengo,0,2,SP,RS,empate,0.972972972972973
+2021-01-20,23,Vasco,Palmeiras,3,1,RS,RJ,visitante,0.5945945945945947
+2021-01-21,10,São Paulo,São Paulo,1,5,RS,RJ,visitante,0.24324324324324326
+2021-01-22,5,Atlético-MG,Flamengo,3,5,SP,SP,mandante,0.10810810810810811
+2021-01-23,36,Internacional,Botafogo,1,3,RJ,RJ,visitante,0.945945945945946
+2021-01-24,34,Corinthians,Atlético-MG,5,1,SP,SP,mandante,0.8918918918918919
+2021-01-25,31,Vasco,Flamengo,0,3,SP,SP,mandante,0.810810810810811
+2021-01-26,10,Botafogo,Flamengo,3,2,RS,SP,visitante,0.24324324324324326
+2021-01-27,19,Santos,Atlético-MG,3,0,SP,RJ,mandante,0.48648648648648657
+2021-01-28,32,Internacional,São Paulo,0,1,RJ,RJ,empate,0.8378378378378379
+2021-01-29,1,Vasco,São Paulo,3,1,MG,RJ,mandante,0.0
+2021-01-30,5,Vasco,Atlético-MG,1,1,RS,SP,visitante,0.10810810810810811
+2021-01-31,4,Corinthians,Internacional,3,3,MG,SP,visitante,0.08108108108108109
+2021-02-01,16,Internacional,Botafogo,2,2,SP,SP,visitante,0.40540540540540543
+2021-02-02,24,Palmeiras,Vasco,5,1,SP,RS,mandante,0.6216216216216217
+2021-02-03,16,São Paulo,Corinthians,4,1,MG,RS,mandante,0.40540540540540543
+2021-02-04,2,Palmeiras,Botafogo,1,5,SP,RJ,empate,0.02702702702702703
+2021-02-05,28,Internacional,São Paulo,2,0,RS,SP,mandante,0.7297297297297298
+2021-02-06,32,Palmeiras,Vasco,5,5,RJ,RS,empate,0.8378378378378379
+2021-02-07,27,Flamengo,Palmeiras,0,5,RJ,SP,empate,0.7027027027027029
+2021-02-08,20,Botafogo,Santos,1,0,SP,RJ,mandante,0.5135135135135136
+2021-02-09,24,Flamengo,Flamengo,4,2,SP,SP,mandante,0.6216216216216217
+2021-02-10,12,Grêmio,Atlético-MG,5,5,SP,RJ,visitante,0.2972972972972973
+2021-02-11,35,Palmeiras,Atlético-MG,4,2,MG,RJ,empate,0.9189189189189191
+2021-02-12,33,Grêmio,Flamengo,0,5,SP,RJ,empate,0.8648648648648649
+2021-02-13,33,Santos,Santos,0,4,RS,RJ,visitante,0.8648648648648649
+2021-02-14,37,Atlético-MG,Corinthians,1,0,SP,RJ,empate,0.972972972972973
+2021-02-15,12,Santos,Santos,3,5,SP,SP,mandante,0.2972972972972973
+2021-02-16,3,Internacional,Vasco,0,4,SP,SP,empate,0.05405405405405406
+2021-02-17,1,Vasco,Santos,5,3,RS,SP,empate,0.0
+2021-02-18,33,Botafogo,Vasco,3,4,SP,SP,mandante,0.8648648648648649
+2021-02-19,10,Palmeiras,Santos,2,1,RS,RJ,mandante,0.24324324324324326
+2021-02-20,29,Corinthians,Corinthians,4,5,MG,RJ,mandante,0.7567567567567568
+2021-02-21,13,Atlético-MG,Corinthians,3,4,RJ,SP,mandante,0.32432432432432434
+2021-02-22,12,São Paulo,São Paulo,4,2,RS,RJ,empate,0.2972972972972973
+2021-02-23,31,São Paulo,Flamengo,3,3,RS,RJ,mandante,0.810810810810811
+2021-02-24,2,São Paulo,Corinthians,2,5,RJ,RJ,mandante,0.02702702702702703
+2021-02-25,35,Palmeiras,Vasco,0,1,RJ,RS,mandante,0.9189189189189191
+2021-02-26,23,São Paulo,Corinthians,2,4,MG,SP,empate,0.5945945945945947
+2021-02-27,17,Flamengo,São Paulo,0,3,SP,RJ,visitante,0.43243243243243246
+2021-02-28,26,Atlético-MG,Atlético-MG,0,5,SP,RS,visitante,0.6756756756756757
+2021-03-01,8,Flamengo,Vasco,4,3,SP,RJ,mandante,0.1891891891891892
+2021-03-02,29,Vasco,São Paulo,5,1,RS,SP,empate,0.7567567567567568
+2021-03-03,26,Atlético-MG,Internacional,2,4,RS,RS,empate,0.6756756756756757
+2021-03-04,10,Flamengo,Internacional,3,3,RJ,SP,mandante,0.24324324324324326
+2021-03-05,26,Atlético-MG,Palmeiras,2,3,SP,SP,mandante,0.6756756756756757
+2021-03-06,34,Vasco,Santos,4,0,SP,SP,mandante,0.8918918918918919
+2021-03-07,7,Grêmio,Flamengo,0,3,RJ,MG,mandante,0.16216216216216217
+2021-03-08,4,Palmeiras,Grêmio,4,0,SP,RS,visitante,0.08108108108108109
+2021-03-09,11,Palmeiras,Botafogo,1,4,MG,SP,empate,0.2702702702702703
+2021-03-10,29,São Paulo,São Paulo,1,5,RS,RS,visitante,0.7567567567567568
+2021-03-11,36,Santos,Atlético-MG,3,5,RS,MG,empate,0.945945945945946
+2021-03-12,25,São Paulo,Botafogo,4,4,SP,RJ,visitante,0.6486486486486487
+2021-03-13,21,Internacional,Atlético-MG,3,4,SP,RJ,visitante,0.5405405405405406
+2021-03-14,36,Flamengo,Botafogo,3,2,SP,RJ,visitante,0.945945945945946
+2021-03-15,10,Atlético-MG,São Paulo,1,4,RJ,RJ,mandante,0.24324324324324326
+2021-03-16,37,Santos,Grêmio,3,3,MG,MG,mandante,0.972972972972973
+2021-03-17,9,Vasco,Botafogo,1,5,RJ,RJ,visitante,0.21621621621621623
+2021-03-18,24,Internacional,São Paulo,0,1,MG,RS,mandante,0.6216216216216217
+2021-03-19,35,Vasco,Corinthians,4,5,SP,RS,mandante,0.9189189189189191
+2021-03-20,35,Palmeiras,Grêmio,3,0,SP,MG,visitante,0.9189189189189191
+2021-03-21,36,Palmeiras,Vasco,1,5,RJ,SP,empate,0.945945945945946
+2021-03-22,18,São Paulo,Atlético-MG,2,2,RS,RS,visitante,0.4594594594594595
+2021-03-23,32,Flamengo,Internacional,3,4,RS,RJ,empate,0.8378378378378379
+2021-03-24,24,Santos,Santos,5,4,RJ,RJ,visitante,0.6216216216216217
+2021-03-25,23,Botafogo,Internacional,0,5,SP,RJ,empate,0.5945945945945947
+2021-03-26,32,Internacional,Grêmio,0,1,RS,RS,visitante,0.8378378378378379
+2021-03-27,37,Internacional,Vasco,2,1,RS,RJ,empate,0.972972972972973
+2021-03-28,12,São Paulo,Atlético-MG,1,2,MG,RJ,visitante,0.2972972972972973
+2021-03-29,13,Palmeiras,Vasco,3,0,RS,RJ,visitante,0.32432432432432434
+2021-03-30,23,São Paulo,Botafogo,1,5,MG,SP,visitante,0.5945945945945947
+2021-03-31,25,Atlético-MG,Atlético-MG,0,4,RJ,SP,visitante,0.6486486486486487
+2021-04-01,35,Santos,Botafogo,1,5,SP,SP,mandante,0.9189189189189191
+2021-04-02,30,Flamengo,São Paulo,0,2,SP,SP,mandante,0.7837837837837838
+2021-04-03,17,Grêmio,Grêmio,1,3,SP,RJ,mandante,0.43243243243243246
+2021-04-04,20,Corinthians,São Paulo,2,3,RJ,SP,empate,0.5135135135135136
+2021-04-05,25,Corinthians,Palmeiras,4,2,RJ,RJ,mandante,0.6486486486486487
+2021-04-06,22,São Paulo,Vasco,2,4,SP,RJ,mandante,0.5675675675675675
+2021-04-07,13,Atlético-MG,Botafogo,2,2,RJ,RJ,visitante,0.32432432432432434
+2021-04-08,19,Santos,Corinthians,4,4,RJ,RS,mandante,0.48648648648648657
+2021-04-09,36,Botafogo,São Paulo,4,1,SP,SP,visitante,0.945945945945946
+2021-04-10,12,Corinthians,Palmeiras,3,2,SP,RJ,mandante,0.2972972972972973
+2021-04-11,19,Santos,Flamengo,3,4,MG,SP,empate,0.48648648648648657
+2021-04-12,12,Flamengo,Internacional,2,2,RS,SP,empate,0.2972972972972973
+2021-04-13,9,Vasco,Atlético-MG,2,2,SP,RS,empate,0.21621621621621623
+2021-04-14,7,Atlético-MG,Palmeiras,0,4,RJ,SP,visitante,0.16216216216216217
+2021-04-15,28,Palmeiras,Grêmio,0,4,SP,RJ,empate,0.7297297297297298
+2021-04-16,14,Santos,São Paulo,3,0,SP,RJ,mandante,0.35135135135135137
+2021-04-17,31,Flamengo,Grêmio,5,2,SP,RS,mandante,0.810810810810811
+2021-04-18,19,Botafogo,Internacional,5,3,SP,RS,mandante,0.48648648648648657
+2021-04-19,16,Grêmio,Corinthians,3,2,SP,RJ,visitante,0.40540540540540543
+2021-04-20,5,Palmeiras,Vasco,0,2,RJ,SP,visitante,0.10810810810810811
+2021-04-21,35,Grêmio,Vasco,0,4,RS,SP,visitante,0.9189189189189191
+2021-04-22,12,Botafogo,Grêmio,5,2,SP,SP,mandante,0.2972972972972973
+2021-04-23,25,Flamengo,Botafogo,1,5,SP,SP,visitante,0.6486486486486487
+2021-04-24,21,Corinthians,Corinthians,1,2,MG,RS,visitante,0.5405405405405406
+2021-04-25,36,Grêmio,Vasco,0,5,SP,RS,visitante,0.945945945945946
+2021-04-26,23,Palmeiras,Corinthians,1,3,MG,SP,visitante,0.5945945945945947
+2021-04-27,16,São Paulo,Palmeiras,4,4,RJ,SP,mandante,0.40540540540540543
+2021-04-28,14,Internacional,Corinthians,3,2,MG,SP,empate,0.35135135135135137
+2021-04-29,31,Santos,Santos,3,5,SP,SP,visitante,0.810810810810811
+2021-04-30,5,Corinthians,Internacional,0,5,SP,MG,mandante,0.10810810810810811
+2021-05-01,35,Grêmio,Vasco,2,5,MG,SP,mandante,0.9189189189189191
+2021-05-02,23,Vasco,Corinthians,5,1,SP,MG,visitante,0.5945945945945947
+2021-05-03,29,Santos,Grêmio,0,0,RS,SP,empate,0.7567567567567568
+2021-05-04,11,São Paulo,Flamengo,1,3,SP,SP,visitante,0.2702702702702703
+2021-05-05,18,Botafogo,Santos,5,2,RS,MG,mandante,0.4594594594594595
+2021-05-06,12,Internacional,Santos,2,1,RJ,SP,empate,0.2972972972972973
+2021-05-07,9,Flamengo,Botafogo,1,2,RJ,SP,visitante,0.21621621621621623
+2021-05-08,10,São Paulo,Corinthians,4,2,SP,RS,visitante,0.24324324324324326
+2021-05-09,17,São Paulo,Botafogo,1,4,RJ,RS,visitante,0.43243243243243246
+2021-05-10,38,Botafogo,Botafogo,4,4,RS,SP,mandante,1.0000000000000002
+2021-05-11,7,Atlético-MG,Flamengo,5,4,RJ,MG,visitante,0.16216216216216217
+2021-05-12,13,Botafogo,Palmeiras,4,1,SP,SP,mandante,0.32432432432432434
+2021-05-13,9,Atlético-MG,Corinthians,5,2,RS,SP,empate,0.21621621621621623
+2021-05-14,27,Atlético-MG,São Paulo,5,0,SP,SP,visitante,0.7027027027027029
+2021-05-15,2,Corinthians,Vasco,5,3,RS,RS,visitante,0.02702702702702703
+2021-05-16,5,Corinthians,Botafogo,5,4,SP,SP,visitante,0.10810810810810811
+2021-05-17,29,Palmeiras,Internacional,5,4,RS,SP,empate,0.7567567567567568
+2021-05-18,37,Grêmio,Atlético-MG,1,2,RJ,RJ,empate,0.972972972972973
+2021-05-19,38,Grêmio,Internacional,5,2,RJ,SP,visitante,1.0000000000000002
+2021-05-20,19,Flamengo,Flamengo,1,1,MG,RS,visitante,0.48648648648648657
+2021-05-21,8,Grêmio,Flamengo,5,1,SP,SP,visitante,0.1891891891891892
+2021-05-22,1,Corinthians,Grêmio,4,4,SP,SP,visitante,0.0
+2021-05-23,22,Palmeiras,Palmeiras,5,2,MG,RJ,mandante,0.5675675675675675
+2021-05-24,17,Palmeiras,Vasco,2,0,SP,SP,visitante,0.43243243243243246
+2021-05-25,7,Atlético-MG,Botafogo,5,3,MG,MG,mandante,0.16216216216216217
+2021-05-26,25,Botafogo,Internacional,5,2,RJ,RJ,empate,0.6486486486486487
+2021-05-27,4,Flamengo,Atlético-MG,4,2,RJ,RJ,mandante,0.08108108108108109
+2021-05-28,36,Atlético-MG,Flamengo,3,5,RJ,SP,empate,0.945945945945946
+2021-05-29,6,Botafogo,Flamengo,4,1,SP,RS,visitante,0.13513513513513514
+2021-05-30,31,Grêmio,Palmeiras,2,3,RS,SP,visitante,0.810810810810811
+2021-05-31,19,Atlético-MG,Atlético-MG,3,4,RS,RJ,visitante,0.48648648648648657
+2021-06-01,27,Santos,Atlético-MG,0,2,SP,MG,mandante,0.7027027027027029
+2021-06-02,10,Grêmio,Palmeiras,0,4,MG,RS,mandante,0.24324324324324326
+2021-06-03,26,Botafogo,Flamengo,2,2,RS,RJ,mandante,0.6756756756756757
+2021-06-04,19,Flamengo,Vasco,4,4,RS,RS,visitante,0.48648648648648657
+2021-06-05,3,Botafogo,Corinthians,1,3,RS,SP,visitante,0.05405405405405406
+2021-06-06,13,Atlético-MG,Corinthians,2,1,SP,RS,empate,0.32432432432432434
+2021-06-07,28,Atlético-MG,Palmeiras,3,3,RJ,RS,mandante,0.7297297297297298
+2021-06-08,20,São Paulo,Atlético-MG,3,5,RJ,RJ,mandante,0.5135135135135136
+2021-06-09,28,Flamengo,Botafogo,5,0,MG,MG,visitante,0.7297297297297298
+2021-06-10,8,Vasco,Palmeiras,0,1,SP,RS,empate,0.1891891891891892
+2021-06-11,1,Grêmio,Vasco,3,3,SP,SP,visitante,0.0
+2021-06-12,3,Palmeiras,Palmeiras,2,5,SP,RJ,visitante,0.05405405405405406
+2021-06-13,13,Flamengo,Santos,3,0,SP,RJ,visitante,0.32432432432432434
+2021-06-14,28,Palmeiras,Internacional,2,5,RS,RJ,mandante,0.7297297297297298
+2021-06-15,25,Flamengo,Atlético-MG,1,2,RJ,RJ,empate,0.6486486486486487
+2021-06-16,33,Flamengo,Grêmio,5,2,RJ,RJ,visitante,0.8648648648648649
+2021-06-17,38,Botafogo,Grêmio,0,4,MG,SP,mandante,1.0000000000000002
+2021-06-18,6,Flamengo,Atlético-MG,3,1,MG,SP,visitante,0.13513513513513514
+2021-06-19,32,São Paulo,Vasco,2,2,RJ,RJ,mandante,0.8378378378378379
+2021-06-20,21,Vasco,Santos,4,5,SP,RS,empate,0.5405405405405406
+2021-06-21,16,Atlético-MG,Santos,0,1,MG,SP,mandante,0.40540540540540543
+2021-06-22,21,Internacional,Flamengo,1,2,SP,RJ,visitante,0.5405405405405406
+2021-06-23,11,Palmeiras,Internacional,2,4,RJ,SP,mandante,0.2702702702702703
+2021-06-24,37,Atlético-MG,Corinthians,5,3,RS,RJ,visitante,0.972972972972973
+2021-06-25,36,Internacional,São Paulo,5,4,RJ,SP,empate,0.945945945945946
+2021-06-26,35,Vasco,Vasco,1,0,MG,MG,visitante,0.9189189189189191
+2021-06-27,19,Vasco,São Paulo,1,2,RJ,RJ,visitante,0.48648648648648657
+2021-06-28,20,Palmeiras,São Paulo,5,0,RS,SP,empate,0.5135135135135136
+2021-06-29,18,Palmeiras,Atlético-MG,3,0,RS,SP,mandante,0.4594594594594595
+2021-06-30,14,Vasco,Grêmio,3,5,SP,SP,mandante,0.35135135135135137
+2021-07-01,15,Internacional,Grêmio,2,1,RJ,SP,mandante,0.3783783783783784
+2021-07-02,31,Flamengo,Corinthians,4,5,RJ,SP,empate,0.810810810810811
+2021-07-03,1,Grêmio,Atlético-MG,2,2,RJ,RJ,mandante,0.0
+2021-07-04,3,Santos,São Paulo,4,0,MG,RJ,visitante,0.05405405405405406
+2021-07-05,16,Atlético-MG,Botafogo,1,3,SP,SP,visitante,0.40540540540540543
+2021-07-06,23,Botafogo,Grêmio,0,0,RJ,MG,mandante,0.5945945945945947
+2021-07-07,11,Atlético-MG,Vasco,2,3,SP,RS,mandante,0.2702702702702703
+2021-07-08,12,Botafogo,Vasco,2,5,SP,SP,mandante,0.2972972972972973
+2021-07-09,10,Internacional,Flamengo,4,5,RJ,RJ,visitante,0.24324324324324326
+2021-07-10,32,Botafogo,Palmeiras,1,1,SP,RJ,mandante,0.8378378378378379
+2021-07-11,16,Palmeiras,Botafogo,1,0,SP,SP,mandante,0.40540540540540543
+2021-07-12,8,Grêmio,Grêmio,4,4,RS,RS,empate,0.1891891891891892
+2021-07-13,38,Grêmio,Santos,1,5,RJ,RJ,empate,1.0000000000000002
+2021-07-14,12,Palmeiras,Grêmio,5,5,SP,SP,mandante,0.2972972972972973
+2021-07-15,24,São Paulo,Flamengo,3,1,MG,SP,mandante,0.6216216216216217
+2021-07-16,28,Internacional,Vasco,5,3,RJ,RJ,mandante,0.7297297297297298
+2021-07-17,8,São Paulo,São Paulo,0,1,SP,SP,visitante,0.1891891891891892
+2021-07-18,28,São Paulo,Santos,2,0,MG,SP,empate,0.7297297297297298
+2021-07-19,36,Atlético-MG,Atlético-MG,0,2,SP,RS,mandante,0.945945945945946
+2021-07-20,26,Vasco,Internacional,2,2,RJ,SP,mandante,0.6756756756756757
+2021-07-21,8,Atlético-MG,São Paulo,3,3,MG,RJ,empate,0.1891891891891892
+2021-07-22,28,Vasco,Internacional,1,5,RS,MG,visitante,0.7297297297297298
+2021-07-23,28,Santos,Botafogo,5,3,RJ,SP,mandante,0.7297297297297298
+2021-07-24,37,Botafogo,Palmeiras,4,5,RJ,SP,visitante,0.972972972972973
+2021-07-25,36,Vasco,Santos,5,5,RS,MG,mandante,0.945945945945946
+2021-07-26,27,Palmeiras,Corinthians,3,2,MG,SP,mandante,0.7027027027027029
+2021-07-27,17,Atlético-MG,Santos,0,3,RJ,SP,empate,0.43243243243243246
+2021-07-28,9,Internacional,Grêmio,4,1,SP,RS,empate,0.21621621621621623
+2021-07-29,33,Botafogo,Vasco,1,5,RJ,SP,visitante,0.8648648648648649
+2021-07-30,20,Santos,Grêmio,3,4,RJ,RS,empate,0.5135135135135136
+2021-07-31,13,Vasco,Grêmio,4,4,RJ,RS,visitante,0.32432432432432434
+2021-08-01,28,Santos,Botafogo,3,1,RJ,RS,empate,0.7297297297297298
+2021-08-02,29,Internacional,São Paulo,3,4,RJ,RJ,visitante,0.7567567567567568
+2021-08-03,13,São Paulo,Corinthians,1,0,RS,RJ,empate,0.32432432432432434
+2021-08-04,35,Grêmio,Corinthians,2,5,SP,RJ,empate,0.9189189189189191
+2021-08-05,6,Internacional,Grêmio,4,1,MG,MG,mandante,0.13513513513513514
+2021-08-06,18,Corinthians,Internacional,1,3,SP,MG,empate,0.4594594594594595
+2021-08-07,5,Internacional,Botafogo,3,5,RJ,MG,empate,0.10810810810810811
+2021-08-08,25,Santos,Grêmio,1,1,RJ,MG,empate,0.6486486486486487
+2021-08-09,2,Palmeiras,Palmeiras,2,2,SP,RJ,mandante,0.02702702702702703
+2021-08-10,10,Atlético-MG,Vasco,5,3,SP,RS,empate,0.24324324324324326
+2021-08-11,30,Palmeiras,São Paulo,4,2,SP,RJ,empate,0.7837837837837838
+2021-08-12,5,Santos,Atlético-MG,2,5,RJ,MG,mandante,0.10810810810810811
+2021-08-13,33,Atlético-MG,Palmeiras,0,3,SP,RJ,empate,0.8648648648648649
+2021-08-14,1,Corinthians,Internacional,4,4,MG,SP,mandante,0.0
+2021-08-15,18,Grêmio,Santos,2,1,RJ,SP,mandante,0.4594594594594595
+2021-08-16,32,Botafogo,Santos,3,5,SP,MG,visitante,0.8378378378378379
+2021-08-17,11,Santos,Palmeiras,4,0,RJ,RS,visitante,0.2702702702702703
+2021-08-18,21,Vasco,Grêmio,4,3,RS,SP,visitante,0.5405405405405406
+2021-08-19,26,Santos,Atlético-MG,1,3,SP,RJ,mandante,0.6756756756756757
+2021-08-20,25,Santos,Flamengo,3,5,RJ,RS,empate,0.6486486486486487
+2021-08-21,22,Atlético-MG,Flamengo,0,5,SP,RS,mandante,0.5675675675675675
+2021-08-22,27,Flamengo,Internacional,5,2,RS,SP,mandante,0.7027027027027029
+2021-08-23,13,Internacional,Grêmio,2,4,RS,RS,mandante,0.32432432432432434
+2021-08-24,33,Flamengo,Corinthians,1,2,SP,MG,visitante,0.8648648648648649
+2021-08-25,34,Corinthians,Corinthians,2,2,SP,SP,empate,0.8918918918918919
+2021-08-26,35,Vasco,São Paulo,0,4,SP,RJ,visitante,0.9189189189189191
+2021-08-27,1,Grêmio,Atlético-MG,0,0,SP,RS,empate,0.0
+2021-08-28,21,São Paulo,Atlético-MG,4,2,RJ,RS,mandante,0.5405405405405406
+2021-08-29,6,Corinthians,Santos,0,2,SP,RJ,visitante,0.13513513513513514
+2021-08-30,28,São Paulo,Botafogo,2,3,SP,SP,visitante,0.7297297297297298
+2021-08-31,17,São Paulo,Internacional,3,4,SP,RS,visitante,0.43243243243243246
+2021-09-01,5,Grêmio,Flamengo,3,1,SP,RJ,mandante,0.10810810810810811
+2021-09-02,31,Palmeiras,Internacional,4,0,RJ,SP,visitante,0.810810810810811
+2021-09-03,5,Flamengo,Corinthians,5,0,RS,RJ,visitante,0.10810810810810811
+2021-09-04,38,Santos,Corinthians,2,4,RJ,RJ,empate,1.0000000000000002
+2021-09-05,3,Botafogo,Palmeiras,2,5,RS,RJ,visitante,0.05405405405405406
+2021-09-06,23,São Paulo,São Paulo,0,5,RJ,SP,mandante,0.5945945945945947
+2021-09-07,37,Vasco,Atlético-MG,2,3,SP,RJ,visitante,0.972972972972973
+2021-09-08,37,Corinthians,Vasco,1,3,MG,RJ,mandante,0.972972972972973
+2021-09-09,10,Palmeiras,Internacional,5,4,SP,RJ,empate,0.24324324324324326
+2021-09-10,10,São Paulo,Corinthians,0,3,SP,RJ,visitante,0.24324324324324326
+2021-09-11,19,Palmeiras,Botafogo,1,0,SP,RS,mandante,0.48648648648648657
+2021-09-12,17,Palmeiras,Santos,4,0,RJ,SP,empate,0.43243243243243246
+2021-09-13,21,São Paulo,Flamengo,3,1,SP,RJ,visitante,0.5405405405405406
+2021-09-14,14,Atlético-MG,São Paulo,4,5,RS,SP,mandante,0.35135135135135137
+2021-09-15,9,Internacional,Botafogo,3,4,RJ,RS,visitante,0.21621621621621623
+2021-09-16,1,Vasco,São Paulo,4,2,RJ,RS,mandante,0.0
+2021-09-17,13,Santos,Palmeiras,2,5,RJ,RS,empate,0.32432432432432434
+2021-09-18,4,Santos,Vasco,1,2,RS,RS,empate,0.08108108108108109
+2021-09-19,1,Vasco,Corinthians,3,1,RJ,RJ,empate,0.0
+2021-09-20,32,Atlético-MG,Santos,0,1,MG,SP,visitante,0.8378378378378379
+2021-09-21,34,Santos,Botafogo,1,3,MG,SP,visitante,0.8918918918918919
+2021-09-22,28,Palmeiras,São Paulo,0,1,RS,SP,empate,0.7297297297297298
+2021-09-23,31,Grêmio,Atlético-MG,1,1,RS,RJ,mandante,0.810810810810811
+2021-09-24,8,Corinthians,Palmeiras,1,2,MG,SP,visitante,0.1891891891891892
+2021-09-25,26,Flamengo,Atlético-MG,4,3,SP,SP,visitante,0.6756756756756757
+2021-09-26,34,Santos,Santos,3,1,SP,SP,mandante,0.8918918918918919
+2021-09-27,3,Vasco,Botafogo,3,5,SP,SP,visitante,0.05405405405405406
+2021-09-28,12,Grêmio,Palmeiras,1,1,SP,SP,empate,0.2972972972972973
+2021-09-29,1,São Paulo,Botafogo,2,3,RJ,SP,empate,0.0
+2021-09-30,5,Internacional,Corinthians,2,4,RJ,MG,mandante,0.10810810810810811
+2021-10-01,30,Vasco,Grêmio,0,3,RJ,SP,mandante,0.7837837837837838
+2021-10-02,30,Palmeiras,Palmeiras,0,2,RJ,RS,mandante,0.7837837837837838
+2021-10-03,17,Internacional,Atlético-MG,4,4,SP,RS,empate,0.43243243243243246
+2021-10-04,23,Corinthians,Santos,1,5,MG,SP,mandante,0.5945945945945947
+2021-10-05,15,Corinthians,Vasco,0,0,RS,RJ,visitante,0.3783783783783784
+2021-10-06,37,Atlético-MG,Corinthians,0,3,RJ,RS,mandante,0.972972972972973
+2021-10-07,21,Botafogo,Grêmio,5,2,MG,SP,visitante,0.5405405405405406
+2021-10-08,14,Atlético-MG,Vasco,1,5,SP,RJ,mandante,0.35135135135135137
+2021-10-09,2,Grêmio,Flamengo,4,4,RS,SP,empate,0.02702702702702703
+2021-10-10,11,Internacional,Corinthians,0,5,RJ,RJ,mandante,0.2702702702702703
+2021-10-11,38,Botafogo,Santos,4,3,SP,RJ,visitante,1.0000000000000002
+2021-10-12,34,São Paulo,São Paulo,3,1,SP,SP,mandante,0.8918918918918919
+2021-10-13,38,Palmeiras,Palmeiras,4,3,SP,RJ,visitante,1.0000000000000002
+2021-10-14,34,Internacional,Botafogo,2,0,RS,RS,empate,0.8918918918918919
+2021-10-15,18,Atlético-MG,Santos,2,3,SP,RJ,mandante,0.4594594594594595
+2021-10-16,30,Flamengo,Palmeiras,4,4,MG,SP,empate,0.7837837837837838
+2021-10-17,15,Botafogo,Vasco,2,4,SP,RJ,visitante,0.3783783783783784
+2021-10-18,27,Botafogo,Botafogo,3,3,SP,SP,mandante,0.7027027027027029
+2021-10-19,34,Palmeiras,Internacional,1,4,RS,SP,visitante,0.8918918918918919
+2021-10-20,38,Santos,Atlético-MG,2,1,SP,SP,mandante,1.0000000000000002
+2021-10-21,33,Corinthians,Flamengo,2,5,MG,SP,visitante,0.8648648648648649
+2021-10-22,24,Corinthians,Corinthians,4,3,SP,RJ,empate,0.6216216216216217
+2021-10-23,15,Flamengo,Santos,3,1,RJ,RS,mandante,0.3783783783783784
+2021-10-24,30,Grêmio,Flamengo,1,5,RJ,MG,visitante,0.7837837837837838
+2021-10-25,17,Grêmio,São Paulo,4,5,RJ,RJ,empate,0.43243243243243246
+2021-10-26,5,São Paulo,Palmeiras,4,1,SP,RS,empate,0.10810810810810811
+2021-10-27,29,Internacional,Palmeiras,5,2,SP,SP,visitante,0.7567567567567568
+2021-10-28,4,Vasco,Santos,3,3,SP,SP,empate,0.08108108108108109
+2021-10-29,10,Santos,Grêmio,1,5,RJ,RJ,visitante,0.24324324324324326
+2021-10-30,17,Atlético-MG,Grêmio,3,5,SP,RS,mandante,0.43243243243243246
+2021-10-31,10,Vasco,Internacional,1,4,RS,SP,empate,0.24324324324324326
+2021-11-01,17,Vasco,Atlético-MG,3,5,MG,RJ,visitante,0.43243243243243246
+2021-11-02,20,Botafogo,Botafogo,4,1,SP,SP,visitante,0.5135135135135136
+2021-11-03,24,Flamengo,São Paulo,4,5,MG,RJ,visitante,0.6216216216216217
+2021-11-04,5,Corinthians,Flamengo,0,2,RJ,MG,empate,0.10810810810810811
+2021-11-05,34,São Paulo,Grêmio,2,3,RJ,SP,empate,0.8918918918918919
+2021-11-06,6,Grêmio,Internacional,5,3,RS,SP,visitante,0.13513513513513514
+2021-11-07,2,Flamengo,Internacional,3,5,RJ,RJ,mandante,0.02702702702702703
+2021-11-08,13,Botafogo,Santos,5,0,SP,RS,visitante,0.32432432432432434
+2021-11-09,11,Atlético-MG,São Paulo,0,0,RS,RJ,visitante,0.2702702702702703
+2021-11-10,23,São Paulo,Vasco,2,1,RS,RJ,mandante,0.5945945945945947
+2021-11-11,16,Botafogo,Botafogo,3,0,SP,SP,empate,0.40540540540540543
+2021-11-12,31,Corinthians,Atlético-MG,1,1,RS,SP,visitante,0.810810810810811
+2021-11-13,11,Corinthians,Corinthians,2,4,RJ,SP,mandante,0.2702702702702703
+2021-11-14,16,Corinthians,Santos,4,1,RJ,MG,mandante,0.40540540540540543
+2021-11-15,8,Flamengo,Botafogo,0,0,RJ,SP,mandante,0.1891891891891892
+2021-11-16,4,Flamengo,Corinthians,2,5,MG,SP,empate,0.08108108108108109
+2021-11-17,4,Grêmio,Corinthians,2,4,SP,RS,mandante,0.08108108108108109
+2021-11-18,25,Grêmio,São Paulo,4,0,RS,RJ,mandante,0.6486486486486487
+2021-11-19,3,Atlético-MG,São Paulo,3,1,SP,RJ,visitante,0.05405405405405406
+2021-11-20,32,São Paulo,Flamengo,1,2,RJ,RS,mandante,0.8378378378378379
+2021-11-21,3,Palmeiras,Internacional,4,3,SP,RS,mandante,0.05405405405405406
+2021-11-22,27,Palmeiras,Botafogo,1,0,RJ,RS,mandante,0.7027027027027029
+2021-11-23,29,Botafogo,Santos,3,1,RS,RJ,visitante,0.7567567567567568
+2021-11-24,32,Corinthians,Palmeiras,2,4,RJ,SP,visitante,0.8378378378378379
+2021-11-25,19,São Paulo,Santos,1,0,RS,SP,mandante,0.48648648648648657
+2021-11-26,21,Vasco,Flamengo,0,0,SP,RJ,visitante,0.5405405405405406
+2021-11-27,5,Flamengo,Atlético-MG,0,3,SP,SP,empate,0.10810810810810811
+2021-11-28,18,Internacional,Internacional,4,1,RJ,RJ,mandante,0.4594594594594595
+2021-11-29,28,Santos,Palmeiras,3,2,SP,SP,mandante,0.7297297297297298
+2021-11-30,22,Atlético-MG,Grêmio,4,4,MG,SP,mandante,0.5675675675675675
+2021-12-01,21,Corinthians,Atlético-MG,4,1,MG,RJ,visitante,0.5405405405405406
+2021-12-02,6,Corinthians,São Paulo,5,4,SP,RS,empate,0.13513513513513514
+2021-12-03,1,Corinthians,Corinthians,4,0,SP,RS,mandante,0.0
+2021-12-04,5,Flamengo,Grêmio,5,3,RS,RS,visitante,0.10810810810810811
+2021-12-05,12,Flamengo,Santos,0,3,RS,SP,mandante,0.2972972972972973
+2021-12-06,26,Santos,Santos,0,5,RS,SP,visitante,0.6756756756756757
+2021-12-07,34,Vasco,São Paulo,4,2,RJ,SP,empate,0.8918918918918919
+2021-12-08,14,São Paulo,Flamengo,0,3,SP,MG,mandante,0.35135135135135137
+2021-12-09,26,Corinthians,Botafogo,3,0,SP,RJ,visitante,0.6756756756756757
+2021-12-10,27,Palmeiras,Grêmio,5,2,SP,SP,mandante,0.7027027027027029
+2021-12-11,9,Grêmio,Grêmio,5,1,SP,RJ,visitante,0.21621621621621623
+2021-12-12,26,Palmeiras,Vasco,4,3,SP,SP,mandante,0.6756756756756757
+2021-12-13,22,Botafogo,Atlético-MG,0,2,RS,RS,empate,0.5675675675675675
+2021-12-14,30,Palmeiras,Internacional,1,0,RS,SP,mandante,0.7837837837837838
+2021-12-15,17,Botafogo,Atlético-MG,5,5,SP,RJ,empate,0.43243243243243246
+2021-12-16,26,Internacional,Botafogo,4,4,RJ,RS,mandante,0.6756756756756757
+2021-12-17,36,Grêmio,Santos,4,4,SP,RS,visitante,0.945945945945946
+2021-12-18,1,Palmeiras,Santos,3,0,RJ,RS,mandante,0.0
+2021-12-19,8,Internacional,Santos,2,0,RS,SP,empate,0.1891891891891892
+2021-12-20,35,Atlético-MG,Vasco,2,4,RS,RS,mandante,0.9189189189189191
+2021-12-21,15,São Paulo,Santos,5,5,MG,SP,mandante,0.3783783783783784
+2021-12-22,22,Internacional,Botafogo,3,2,SP,RJ,visitante,0.5675675675675675
+2021-12-23,14,São Paulo,São Paulo,3,4,RJ,RJ,mandante,0.35135135135135137
+2021-12-24,26,Palmeiras,Internacional,3,0,MG,RJ,mandante,0.6756756756756757
+2021-12-25,28,Vasco,Botafogo,5,3,RS,SP,empate,0.7297297297297298
+2021-12-26,23,Internacional,Internacional,2,1,RJ,RJ,empate,0.5945945945945947
+2021-12-27,14,Grêmio,Botafogo,3,5,SP,RJ,mandante,0.35135135135135137
+2021-12-28,24,Palmeiras,Santos,0,5,RJ,SP,empate,0.6216216216216217
+2021-12-29,2,Corinthians,São Paulo,4,3,RJ,MG,visitante,0.02702702702702703
+2021-12-30,26,Flamengo,Grêmio,4,3,RS,SP,mandante,0.6756756756756757
+2021-12-31,14,Internacional,Atlético-MG,1,0,RS,MG,visitante,0.35135135135135137
+2022-01-01,7,Grêmio,Corinthians,1,4,RJ,RS,visitante,0.16216216216216217
+2022-01-02,3,Atlético-MG,São Paulo,5,2,RJ,SP,empate,0.05405405405405406
+2022-01-03,23,Corinthians,Grêmio,5,5,SP,SP,mandante,0.5945945945945947
+2022-01-04,18,Atlético-MG,Flamengo,4,5,RJ,SP,visitante,0.4594594594594595
+2022-01-05,38,Palmeiras,Botafogo,0,3,RJ,SP,mandante,1.0000000000000002
+2022-01-06,35,Flamengo,Flamengo,2,4,RJ,RS,mandante,0.9189189189189191
+2022-01-07,15,Internacional,Grêmio,2,5,RJ,RJ,mandante,0.3783783783783784
+2022-01-08,25,Internacional,São Paulo,5,2,SP,RJ,empate,0.6486486486486487
+2022-01-09,37,Vasco,Botafogo,0,3,RJ,RJ,empate,0.972972972972973
+2022-01-10,28,Vasco,Corinthians,5,2,RS,MG,empate,0.7297297297297298
+2022-01-11,10,Palmeiras,Santos,2,4,MG,SP,visitante,0.24324324324324326
+2022-01-12,17,Palmeiras,Botafogo,5,5,SP,SP,mandante,0.43243243243243246
+2022-01-13,22,Flamengo,Botafogo,3,1,RJ,RJ,mandante,0.5675675675675675
+2022-01-14,26,Vasco,São Paulo,5,5,SP,RS,mandante,0.6756756756756757
+2022-01-15,25,Grêmio,São Paulo,4,4,SP,RS,mandante,0.6486486486486487
+2022-01-16,17,Grêmio,Grêmio,5,5,RJ,RJ,empate,0.43243243243243246
+2022-01-17,13,Flamengo,Palmeiras,4,5,SP,RS,visitante,0.32432432432432434
+2022-01-18,20,Grêmio,Botafogo,0,0,RS,SP,mandante,0.5135135135135136
+2022-01-19,25,Botafogo,Atlético-MG,2,5,RJ,SP,mandante,0.6486486486486487
+2022-01-20,4,São Paulo,Botafogo,1,5,RS,RJ,mandante,0.08108108108108109
+2022-01-21,10,Flamengo,Grêmio,1,2,SP,RJ,visitante,0.24324324324324326
+2022-01-22,3,Flamengo,Internacional,2,1,RJ,MG,empate,0.05405405405405406
+2022-01-23,18,Santos,Flamengo,1,2,SP,SP,visitante,0.4594594594594595
+2022-01-24,36,Corinthians,Santos,5,2,RJ,SP,empate,0.945945945945946
+2022-01-25,22,Corinthians,Palmeiras,0,3,SP,MG,visitante,0.5675675675675675
+2022-01-26,34,Botafogo,Corinthians,0,0,SP,SP,mandante,0.8918918918918919
+2022-01-27,8,Vasco,Corinthians,2,2,RJ,RJ,mandante,0.1891891891891892
+2022-01-28,19,Palmeiras,Corinthians,1,4,RS,MG,empate,0.48648648648648657
+2022-01-29,37,Palmeiras,São Paulo,5,4,MG,SP,empate,0.972972972972973
+2022-01-30,6,Atlético-MG,Corinthians,0,5,RS,SP,mandante,0.13513513513513514
+2022-01-31,26,Botafogo,Santos,0,3,RS,RS,visitante,0.6756756756756757
+2022-02-01,34,Flamengo,Flamengo,3,0,SP,SP,visitante,0.8918918918918919
+2022-02-02,6,Botafogo,Corinthians,3,0,RJ,RJ,visitante,0.13513513513513514
+2022-02-03,37,Botafogo,Botafogo,0,5,SP,RS,empate,0.972972972972973
+2022-02-04,33,Botafogo,Botafogo,2,4,MG,SP,visitante,0.8648648648648649
+2022-02-05,22,Corinthians,São Paulo,4,1,SP,SP,visitante,0.5675675675675675
+2022-02-06,21,Botafogo,Santos,4,3,SP,SP,mandante,0.5405405405405406
+2022-02-07,6,São Paulo,Flamengo,5,5,SP,SP,mandante,0.13513513513513514
+2022-02-08,6,Palmeiras,Palmeiras,0,3,RJ,RJ,mandante,0.13513513513513514
+2022-02-09,4,Atlético-MG,Grêmio,0,4,RS,SP,mandante,0.08108108108108109
+2022-02-10,30,São Paulo,Flamengo,0,4,SP,SP,visitante,0.7837837837837838
+2022-02-11,11,Atlético-MG,Grêmio,2,1,SP,SP,visitante,0.2702702702702703
+2022-02-12,30,Santos,Internacional,3,1,RJ,RJ,mandante,0.7837837837837838
+2022-02-13,31,Atlético-MG,Grêmio,0,0,RS,RS,empate,0.810810810810811
+2022-02-14,24,Palmeiras,Atlético-MG,0,3,SP,SP,mandante,0.6216216216216217
+2022-02-15,9,Palmeiras,Botafogo,1,3,SP,RJ,mandante,0.21621621621621623
+2022-02-16,3,Botafogo,Santos,2,4,RS,SP,mandante,0.05405405405405406
+2022-02-17,31,Internacional,Vasco,5,0,SP,RJ,mandante,0.810810810810811
+2022-02-18,37,Santos,São Paulo,0,5,RJ,SP,mandante,0.972972972972973
+2022-02-19,36,Flamengo,Atlético-MG,1,3,MG,RJ,visitante,0.945945945945946
+2022-02-20,24,Grêmio,Grêmio,4,0,RS,SP,visitante,0.6216216216216217
+2022-02-21,31,Atlético-MG,Corinthians,5,0,RJ,SP,empate,0.810810810810811
+2022-02-22,6,Internacional,Santos,0,4,RJ,SP,mandante,0.13513513513513514
+2022-02-23,2,Botafogo,Atlético-MG,0,0,SP,RJ,mandante,0.02702702702702703
+2022-02-24,20,Corinthians,São Paulo,1,1,RS,RJ,mandante,0.5135135135135136
+2022-02-25,28,Flamengo,Botafogo,2,1,MG,RS,visitante,0.7297297297297298
+2022-02-26,11,Vasco,Santos,0,2,RS,RJ,mandante,0.2702702702702703
+2022-02-27,4,Internacional,São Paulo,4,4,RS,RJ,empate,0.08108108108108109
+2022-02-28,15,Corinthians,Internacional,0,5,MG,RS,visitante,0.3783783783783784
+2022-03-01,6,Santos,Internacional,4,2,SP,SP,visitante,0.13513513513513514
+2022-03-02,30,Botafogo,São Paulo,5,1,SP,RJ,visitante,0.7837837837837838
+2022-03-03,38,Flamengo,Atlético-MG,5,2,RS,MG,mandante,1.0000000000000002
+2022-03-04,2,Flamengo,Santos,3,4,RJ,RS,mandante,0.02702702702702703
+2022-03-05,15,Flamengo,Atlético-MG,3,4,SP,RJ,mandante,0.3783783783783784
+2022-03-06,11,Santos,Palmeiras,4,0,SP,RJ,visitante,0.2702702702702703
+2022-03-07,8,Atlético-MG,Grêmio,2,3,RJ,MG,mandante,0.1891891891891892
+2022-03-08,26,Vasco,Palmeiras,0,0,SP,RS,mandante,0.6756756756756757
+2022-03-09,5,Santos,Internacional,0,4,RJ,MG,empate,0.10810810810810811
+2022-03-10,6,Grêmio,Botafogo,3,1,SP,SP,mandante,0.13513513513513514
+2022-03-11,26,Vasco,Flamengo,4,5,SP,RJ,empate,0.6756756756756757
+2022-03-12,4,Palmeiras,Grêmio,0,1,SP,RJ,empate,0.08108108108108109
+2022-03-13,19,Botafogo,Internacional,0,0,RS,SP,mandante,0.48648648648648657
+2022-03-14,20,Santos,Atlético-MG,2,5,MG,RS,mandante,0.5135135135135136
+2022-03-15,33,Corinthians,Atlético-MG,1,4,RS,RS,mandante,0.8648648648648649
+2022-03-16,20,Vasco,Atlético-MG,3,1,MG,SP,visitante,0.5135135135135136
+2022-03-17,12,Grêmio,Botafogo,3,4,MG,RJ,visitante,0.2972972972972973
+2022-03-18,1,Palmeiras,Palmeiras,1,5,SP,RS,empate,0.0
+2022-03-19,26,Atlético-MG,Flamengo,0,5,RS,RS,empate,0.6756756756756757
+2022-03-20,14,Corinthians,Atlético-MG,2,1,RS,RS,visitante,0.35135135135135137
+2022-03-21,38,Vasco,Vasco,2,4,RS,RS,mandante,1.0000000000000002
+2022-03-22,37,Botafogo,Grêmio,3,2,MG,SP,mandante,0.972972972972973
+2022-03-23,11,Corinthians,Santos,2,4,SP,SP,empate,0.2702702702702703
+2022-03-24,36,Palmeiras,Vasco,5,5,RJ,RS,mandante,0.945945945945946
+2022-03-25,13,Corinthians,Flamengo,1,4,RS,RS,mandante,0.32432432432432434
+2022-03-26,3,São Paulo,Botafogo,0,0,SP,RJ,visitante,0.05405405405405406
+2022-03-27,33,Internacional,Flamengo,5,2,RJ,RJ,visitante,0.8648648648648649
+2022-03-28,6,Atlético-MG,Santos,1,3,RJ,RJ,empate,0.13513513513513514
+2022-03-29,10,Palmeiras,Grêmio,4,0,RJ,SP,visitante,0.24324324324324326
+2022-03-30,5,Corinthians,Santos,3,3,MG,SP,mandante,0.10810810810810811
+2022-03-31,23,Internacional,São Paulo,2,1,RS,SP,empate,0.5945945945945947
+2022-04-01,10,Internacional,Grêmio,4,3,SP,MG,mandante,0.24324324324324326
+2022-04-02,2,Corinthians,Flamengo,2,4,RS,RJ,mandante,0.02702702702702703
+2022-04-03,13,Botafogo,Atlético-MG,5,3,RS,MG,visitante,0.32432432432432434
+2022-04-04,2,São Paulo,Flamengo,0,5,SP,SP,mandante,0.02702702702702703
+2022-04-05,20,Santos,Flamengo,0,0,RS,RJ,visitante,0.5135135135135136
+2022-04-06,1,São Paulo,Grêmio,0,0,RJ,SP,mandante,0.0
+2022-04-07,37,Corinthians,São Paulo,2,3,SP,RS,visitante,0.972972972972973
+2022-04-08,9,Atlético-MG,Flamengo,4,0,RJ,RJ,mandante,0.21621621621621623
+2022-04-09,17,Santos,Vasco,0,5,RS,RS,empate,0.43243243243243246
+2022-04-10,9,Palmeiras,Internacional,4,0,RS,SP,empate,0.21621621621621623
+2022-04-11,11,São Paulo,Corinthians,2,3,SP,RS,mandante,0.2702702702702703
+2022-04-12,15,Corinthians,Corinthians,5,2,RS,SP,mandante,0.3783783783783784
+2022-04-13,24,São Paulo,Flamengo,4,2,SP,RJ,mandante,0.6216216216216217
+2022-04-14,38,Santos,Vasco,5,1,RS,RS,mandante,1.0000000000000002
+2022-04-15,35,Grêmio,Atlético-MG,2,0,SP,MG,empate,0.9189189189189191
+2022-04-16,30,Vasco,Botafogo,2,3,RJ,SP,visitante,0.7837837837837838
+2022-04-17,31,São Paulo,Botafogo,3,0,RS,SP,mandante,0.810810810810811
+2022-04-18,5,Palmeiras,Grêmio,2,4,SP,RS,mandante,0.10810810810810811
+2022-04-19,14,Palmeiras,Corinthians,2,5,SP,SP,mandante,0.35135135135135137
+2022-04-20,11,Flamengo,Flamengo,1,0,MG,SP,visitante,0.2702702702702703
+2022-04-21,9,São Paulo,Botafogo,0,0,RJ,RJ,mandante,0.21621621621621623
+2022-04-22,34,Vasco,Flamengo,3,2,SP,SP,empate,0.8918918918918919
+2022-04-23,12,Botafogo,Grêmio,3,5,RJ,SP,empate,0.2972972972972973
+2022-04-24,35,Internacional,Corinthians,3,3,SP,SP,mandante,0.9189189189189191
+2022-04-25,35,Vasco,Santos,1,0,RJ,SP,visitante,0.9189189189189191
+2022-04-26,1,Internacional,Internacional,5,2,RS,SP,empate,0.0
+2022-04-27,22,Internacional,Internacional,2,1,RJ,SP,visitante,0.5675675675675675
+2022-04-28,29,Grêmio,Botafogo,0,5,RS,SP,mandante,0.7567567567567568
+2022-04-29,8,Flamengo,Internacional,4,2,SP,SP,mandante,0.1891891891891892
+2022-04-30,11,Vasco,Santos,5,2,SP,SP,empate,0.2702702702702703
+2022-05-01,37,Vasco,Flamengo,2,2,MG,RS,visitante,0.972972972972973
+2022-05-02,14,Grêmio,Grêmio,1,0,SP,RJ,visitante,0.35135135135135137
+2022-05-03,30,São Paulo,Santos,2,0,RJ,SP,empate,0.7837837837837838
+2022-05-04,35,São Paulo,Grêmio,2,1,RJ,SP,empate,0.9189189189189191
+2022-05-05,21,São Paulo,Grêmio,1,4,SP,SP,empate,0.5405405405405406
+2022-05-06,37,Atlético-MG,Corinthians,3,4,RJ,SP,mandante,0.972972972972973
+2022-05-07,5,Internacional,Flamengo,3,4,RJ,SP,visitante,0.10810810810810811
+2022-05-08,19,Atlético-MG,Vasco,0,5,SP,RS,visitante,0.48648648648648657
+2022-05-09,14,Flamengo,Internacional,0,5,RJ,RJ,empate,0.35135135135135137
+2022-05-10,26,Grêmio,Vasco,3,1,MG,RJ,visitante,0.6756756756756757
+2022-05-11,4,Vasco,Corinthians,5,5,RJ,RJ,mandante,0.08108108108108109
+2022-05-12,25,Internacional,Grêmio,4,4,MG,RS,empate,0.6486486486486487
+2022-05-13,25,Atlético-MG,Botafogo,2,4,MG,SP,visitante,0.6486486486486487
+2022-05-14,18,Atlético-MG,Internacional,4,2,SP,RJ,mandante,0.4594594594594595
+2022-05-15,8,Corinthians,Internacional,2,5,RS,RJ,visitante,0.1891891891891892
+2022-05-16,14,Atlético-MG,Flamengo,3,0,SP,RJ,mandante,0.35135135135135137
+2022-05-17,32,Botafogo,São Paulo,0,0,RS,MG,mandante,0.8378378378378379
+2022-05-18,38,Vasco,Palmeiras,5,2,SP,SP,mandante,1.0000000000000002
+2022-05-19,33,Botafogo,Palmeiras,0,2,SP,SP,visitante,0.8648648648648649
+2022-05-20,23,Vasco,Palmeiras,4,2,RJ,RS,visitante,0.5945945945945947
+2022-05-21,15,Grêmio,São Paulo,0,0,RS,RJ,visitante,0.3783783783783784
+2022-05-22,33,Vasco,Flamengo,3,4,SP,RJ,visitante,0.8648648648648649
+2022-05-23,25,Botafogo,São Paulo,5,2,SP,RS,empate,0.6486486486486487
+2022-05-24,17,Vasco,Palmeiras,4,1,RJ,SP,mandante,0.43243243243243246
+2022-05-25,33,Grêmio,Corinthians,5,2,SP,SP,mandante,0.8648648648648649
+2022-05-26,2,Grêmio,Santos,2,3,RS,RJ,empate,0.02702702702702703
+2022-05-27,14,Flamengo,Grêmio,0,2,SP,RJ,mandante,0.35135135135135137
+2022-05-28,6,Vasco,São Paulo,5,0,RJ,RJ,empate,0.13513513513513514
+2022-05-29,6,Corinthians,Flamengo,1,5,SP,SP,empate,0.13513513513513514
+2022-05-30,3,São Paulo,Flamengo,0,2,RJ,RJ,visitante,0.05405405405405406
+2022-05-31,7,Palmeiras,Vasco,2,5,RJ,RJ,empate,0.16216216216216217
+2022-06-01,8,Grêmio,Santos,5,3,SP,SP,mandante,0.1891891891891892
+2022-06-02,15,Santos,Botafogo,4,1,RJ,RS,mandante,0.3783783783783784
+2022-06-03,29,São Paulo,Internacional,2,5,SP,MG,visitante,0.7567567567567568
+2022-06-04,33,Internacional,Palmeiras,1,4,SP,SP,mandante,0.8648648648648649
+2022-06-05,30,Vasco,Botafogo,5,2,RS,SP,empate,0.7837837837837838
+2022-06-06,27,Botafogo,Vasco,3,3,SP,SP,mandante,0.7027027027027029
+2022-06-07,36,Palmeiras,Palmeiras,0,3,RJ,RJ,visitante,0.945945945945946
+2022-06-08,29,Santos,Santos,4,5,MG,RS,visitante,0.7567567567567568
+2022-06-09,38,São Paulo,Vasco,3,1,SP,RJ,visitante,1.0000000000000002
+2022-06-10,33,Vasco,Palmeiras,5,0,RJ,RJ,mandante,0.8648648648648649
+2022-06-11,37,Flamengo,Santos,5,2,RJ,SP,mandante,0.972972972972973
+2022-06-12,27,Internacional,Atlético-MG,2,3,RJ,RJ,empate,0.7027027027027029
+2022-06-13,33,Palmeiras,Botafogo,5,1,SP,RJ,mandante,0.8648648648648649
+2022-06-14,4,Corinthians,Botafogo,4,4,RJ,MG,empate,0.08108108108108109
+2022-06-15,22,Flamengo,Internacional,3,3,SP,RJ,visitante,0.5675675675675675
+2022-06-16,2,Santos,Santos,4,1,RS,RJ,empate,0.02702702702702703
+2022-06-17,10,Palmeiras,São Paulo,1,0,RS,RS,visitante,0.24324324324324326
+2022-06-18,5,Flamengo,Atlético-MG,1,0,SP,RJ,mandante,0.10810810810810811
+2022-06-19,10,Internacional,Corinthians,0,3,SP,SP,visitante,0.24324324324324326
+2022-06-20,33,Corinthians,Palmeiras,0,3,RJ,RS,empate,0.8648648648648649
+2022-06-21,38,Flamengo,Atlético-MG,1,5,MG,RS,visitante,1.0000000000000002
+2022-06-22,13,Atlético-MG,Santos,5,2,SP,SP,empate,0.32432432432432434
+2022-06-23,31,Corinthians,Grêmio,4,1,RJ,SP,visitante,0.810810810810811
+2022-06-24,36,Santos,Palmeiras,1,3,MG,MG,mandante,0.945945945945946
+2022-06-25,24,Internacional,Flamengo,0,2,RJ,MG,mandante,0.6216216216216217
+2022-06-26,15,Vasco,Botafogo,1,5,RS,RJ,empate,0.3783783783783784
+2022-06-27,29,Botafogo,Santos,5,2,RJ,SP,mandante,0.7567567567567568
+2022-06-28,8,Botafogo,Flamengo,1,3,RJ,RS,empate,0.1891891891891892
+2022-06-29,5,Botafogo,Internacional,4,0,RJ,SP,empate,0.10810810810810811
+2022-06-30,29,Palmeiras,Vasco,3,1,SP,SP,mandante,0.7567567567567568
+2022-07-01,4,Santos,Corinthians,5,1,SP,MG,mandante,0.08108108108108109
+2022-07-02,12,Internacional,Corinthians,0,0,RS,RJ,visitante,0.2972972972972973
+2022-07-03,2,Corinthians,Flamengo,4,3,SP,SP,mandante,0.02702702702702703
+2022-07-04,27,Palmeiras,Botafogo,1,1,RJ,RJ,empate,0.7027027027027029
+2022-07-05,31,Santos,Internacional,1,3,SP,RJ,visitante,0.810810810810811
+2022-07-06,36,Vasco,Grêmio,3,5,RS,SP,visitante,0.945945945945946
+2022-07-07,36,Atlético-MG,Botafogo,0,3,RJ,RJ,empate,0.945945945945946
+2022-07-08,26,Internacional,Atlético-MG,0,2,RJ,SP,mandante,0.6756756756756757
+2022-07-09,27,Botafogo,Corinthians,2,0,RJ,SP,visitante,0.7027027027027029
+2022-07-10,5,Flamengo,Atlético-MG,0,3,SP,RJ,mandante,0.10810810810810811
+2022-07-11,20,Internacional,Palmeiras,3,5,RJ,RS,mandante,0.5135135135135136
+2022-07-12,11,Grêmio,São Paulo,2,4,SP,SP,visitante,0.2702702702702703
+2022-07-13,10,Santos,Santos,2,0,RJ,RJ,empate,0.24324324324324326
+2022-07-14,38,São Paulo,Internacional,1,1,SP,MG,mandante,1.0000000000000002
+2022-07-15,6,Vasco,Botafogo,1,2,SP,RS,visitante,0.13513513513513514
+2022-07-16,8,Atlético-MG,Corinthians,0,1,RS,SP,visitante,0.1891891891891892
+2022-07-17,23,Vasco,Atlético-MG,2,5,SP,SP,mandante,0.5945945945945947
+2022-07-18,26,Internacional,Vasco,1,5,SP,SP,mandante,0.6756756756756757
+2022-07-19,12,São Paulo,Palmeiras,3,1,SP,SP,empate,0.2972972972972973
+2022-07-20,26,Grêmio,Santos,1,0,SP,RS,visitante,0.6756756756756757
+2022-07-21,13,Corinthians,Santos,5,1,SP,RS,visitante,0.32432432432432434
+2022-07-22,18,Flamengo,Botafogo,5,3,RJ,RS,visitante,0.4594594594594595
+2022-07-23,25,São Paulo,Internacional,1,1,RJ,MG,mandante,0.6486486486486487
+2022-07-24,33,Santos,Grêmio,2,2,RJ,SP,visitante,0.8648648648648649
+2022-07-25,12,Botafogo,Vasco,2,2,RS,SP,visitante,0.2972972972972973
+2022-07-26,36,Grêmio,Botafogo,4,4,SP,RJ,visitante,0.945945945945946
+2022-07-27,4,Flamengo,Atlético-MG,5,2,RJ,RS,mandante,0.08108108108108109
+2022-07-28,5,Atlético-MG,São Paulo,3,1,SP,RJ,mandante,0.10810810810810811
+2022-07-29,37,Botafogo,Flamengo,2,2,SP,RJ,mandante,0.972972972972973
+2022-07-30,8,Internacional,Grêmio,0,0,SP,SP,empate,0.1891891891891892
+2022-07-31,28,São Paulo,Internacional,5,2,RJ,SP,visitante,0.7297297297297298
+2022-08-01,31,Flamengo,Palmeiras,3,3,SP,SP,visitante,0.810810810810811
+2022-08-02,9,Palmeiras,Grêmio,3,0,RS,RS,mandante,0.21621621621621623
+2022-08-03,29,Corinthians,Corinthians,2,4,SP,RS,mandante,0.7567567567567568
+2022-08-04,14,Corinthians,Internacional,3,3,RJ,MG,visitante,0.35135135135135137
+2022-08-05,22,Grêmio,São Paulo,2,1,RS,RJ,visitante,0.5675675675675675
+2022-08-06,11,Atlético-MG,Corinthians,1,1,RJ,RJ,visitante,0.2702702702702703
+2022-08-07,23,Grêmio,Grêmio,5,1,SP,SP,mandante,0.5945945945945947
+2022-08-08,1,Palmeiras,Flamengo,4,3,RS,RJ,visitante,0.0
+2022-08-09,37,Santos,Flamengo,1,3,SP,RJ,mandante,0.972972972972973
+2022-08-10,21,Atlético-MG,São Paulo,5,3,MG,SP,mandante,0.5405405405405406
+2022-08-11,26,Vasco,Santos,2,0,RS,SP,visitante,0.6756756756756757
+2022-08-12,36,Santos,Vasco,5,5,RS,SP,mandante,0.945945945945946
+2022-08-13,23,Atlético-MG,Palmeiras,2,0,RS,RJ,mandante,0.5945945945945947
+2022-08-14,1,Atlético-MG,Santos,1,1,RS,SP,visitante,0.0
+2022-08-15,15,Palmeiras,Flamengo,0,5,RS,RS,visitante,0.3783783783783784
+2022-08-16,21,Internacional,Flamengo,0,2,SP,SP,empate,0.5405405405405406
+2022-08-17,9,Palmeiras,Atlético-MG,5,1,RS,SP,visitante,0.21621621621621623
+2022-08-18,9,Atlético-MG,Corinthians,0,4,RJ,MG,mandante,0.21621621621621623
+2022-08-19,10,Flamengo,Grêmio,2,0,SP,RS,mandante,0.24324324324324326
+2022-08-20,26,Santos,Palmeiras,3,3,SP,RJ,empate,0.6756756756756757
+2022-08-21,35,Palmeiras,São Paulo,2,0,RS,RS,visitante,0.9189189189189191
+2022-08-22,25,Internacional,Grêmio,3,3,RJ,SP,visitante,0.6486486486486487
+2022-08-23,26,São Paulo,Atlético-MG,1,5,SP,RS,mandante,0.6756756756756757
+2022-08-24,11,Grêmio,Flamengo,4,4,SP,SP,visitante,0.2702702702702703
+2022-08-25,38,Atlético-MG,São Paulo,3,5,RS,MG,mandante,1.0000000000000002
+2022-08-26,2,Vasco,Flamengo,0,4,RJ,RJ,visitante,0.02702702702702703
+2022-08-27,7,São Paulo,Palmeiras,2,0,SP,SP,empate,0.16216216216216217
+2022-08-28,18,Corinthians,Corinthians,1,3,RJ,SP,empate,0.4594594594594595
+2022-08-29,27,Botafogo,Grêmio,0,5,RJ,RS,visitante,0.7027027027027029
+2022-08-30,34,Internacional,Grêmio,1,4,RS,RJ,visitante,0.8918918918918919
+2022-08-31,27,Vasco,Santos,4,1,RJ,SP,empate,0.7027027027027029
+2022-09-01,17,Botafogo,São Paulo,2,1,RS,SP,visitante,0.43243243243243246
+2022-09-02,24,Internacional,Vasco,5,5,MG,RS,mandante,0.6216216216216217
+2022-09-03,25,Flamengo,Atlético-MG,2,3,SP,SP,visitante,0.6486486486486487
+2022-09-04,7,Grêmio,Vasco,4,5,RJ,SP,mandante,0.16216216216216217
+2022-09-05,6,São Paulo,Santos,2,0,SP,RJ,visitante,0.13513513513513514
+2022-09-06,24,Santos,Palmeiras,5,4,SP,RJ,visitante,0.6216216216216217
+2022-09-07,33,Internacional,Atlético-MG,3,0,MG,SP,visitante,0.8648648648648649
+2022-09-08,29,Santos,Corinthians,1,1,SP,SP,mandante,0.7567567567567568
+2022-09-09,22,Grêmio,Vasco,5,4,SP,RJ,mandante,0.5675675675675675
+2022-09-10,26,Atlético-MG,Corinthians,0,5,SP,RS,visitante,0.6756756756756757
+2022-09-11,28,Corinthians,Vasco,4,0,MG,SP,empate,0.7297297297297298
+2022-09-12,21,São Paulo,Corinthians,3,2,SP,RS,visitante,0.5405405405405406
+2022-09-13,7,Grêmio,Vasco,0,3,RS,RJ,mandante,0.16216216216216217
+2022-09-14,17,Grêmio,Corinthians,0,3,RJ,RJ,empate,0.43243243243243246
+2022-09-15,20,Flamengo,Santos,4,2,SP,RJ,empate,0.5135135135135136
+2022-09-16,20,Botafogo,Internacional,3,1,RJ,RS,mandante,0.5135135135135136
+2022-09-17,22,Corinthians,Atlético-MG,0,4,RS,SP,mandante,0.5675675675675675
+2022-09-18,28,São Paulo,São Paulo,0,3,SP,MG,visitante,0.7297297297297298
+2022-09-19,7,Atlético-MG,Palmeiras,3,2,RS,SP,empate,0.16216216216216217
+2022-09-20,1,Atlético-MG,Botafogo,2,5,RJ,SP,empate,0.0
+2022-09-21,32,Palmeiras,Flamengo,0,2,SP,RJ,empate,0.8378378378378379
+2022-09-22,13,Grêmio,São Paulo,1,1,MG,SP,visitante,0.32432432432432434
+2022-09-23,30,Internacional,Flamengo,3,1,SP,RJ,visitante,0.7837837837837838
+2022-09-24,23,Flamengo,Atlético-MG,0,0,RS,RJ,mandante,0.5945945945945947
+2022-09-25,19,Corinthians,São Paulo,4,3,SP,RJ,mandante,0.48648648648648657
+2022-09-26,32,Atlético-MG,Corinthians,5,0,RJ,RS,visitante,0.8378378378378379
